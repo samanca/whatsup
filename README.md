@@ -1,4 +1,4 @@
-What'sUp
+What's Up
 =======
 
-What'sUp messaging service
+What's Up messaging service

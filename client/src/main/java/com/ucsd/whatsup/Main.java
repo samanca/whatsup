@@ -13,7 +13,7 @@ public class Main
 
     public static void main( String[] args )
     {
-        String username, password;
+        String username, password, hostname;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Username:");
@@ -21,7 +21,16 @@ public class Main
         System.out.println("Password:");
         password = scanner.next();
 
-        ConnectionConfiguration config = new ConnectionConfiguration(SERVER_NAME, SERVER_PORT);
+        if (username.indexOf("@") > 0) {
+            String[] tokens = username.split("@");
+            username = tokens[0];
+            hostname = tokens[1];
+        }
+        else {
+            hostname = SERVER_NAME;
+        }
+
+        ConnectionConfiguration config = new ConnectionConfiguration(hostname, SERVER_PORT);
         config.setCompressionEnabled(true);
         config.setSASLAuthenticationEnabled(true);
 
@@ -46,6 +55,9 @@ public class Main
             else if (command.equals("remove")) {
                 System.out.println("Enter contact address:");
                 manager.RemoveContact(scanner.next());
+            }
+            else if (command.equals("remove-all")) {
+                manager.RemoveAllContacts();
             }
             else if (command.equals("list")) {
                 manager.PrintContacts();

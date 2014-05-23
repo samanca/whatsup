@@ -88,6 +88,14 @@ public class MyContactManager {
         }
     }
 
+    public void RemoveAllContacts() {
+        Roster roster = connection.getRoster();
+        Collection<RosterEntry> entries = roster.getEntries();
+        for (RosterEntry entry : entries) {
+            RemoveContact(entry.getUser());
+        }
+    }
+
     public void PrintContacts() {
         for (String entry : chatManagers.keySet()) {
             System.out.println(entry);

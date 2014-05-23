@@ -1,7 +1,6 @@
 package com.ucsd.whatsup;
 
 import org.jivesoftware.smack.*;
-import org.jivesoftware.smack.packet.Message;
 
 public class MyChatManager {
 
@@ -14,12 +13,14 @@ public class MyChatManager {
         connection = conn;
         username = contact;
 
-        chat = connection.getChatManager().createChat(username, new MessageListener() {
-            public void processMessage(Chat chat, Message message) {
-                if (message.getBody() != null)
-                    System.out.println(username + " says " + message.getBody());
+        connection.getChatManager().addChatListener(new ChatManagerListener() {
+            public void chatCreated(Chat chat, boolean createdLocally) {
+                if (!createdLocally)
+                    chat.addMessageListener(new MyMessageListener(username));
             }
         });
+
+        chat = connection.getChatManager().createChat(username, new MyMessageListener(username));
     }
 
     @Override

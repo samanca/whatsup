@@ -6,7 +6,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class App 
+public class Main
 {
     private static String SERVER_NAME = "localhost";
     private static int SERVER_PORT = 5222;

@@ -71,6 +71,7 @@ public class Main
                 try {
                     String message = br.readLine();
                     manager.SendMessage(contact, message);
+                    System.out.println("sending message: " + message);
                 }
                 catch (Exception ex) {
                     System.err.println("error sending message: " + ex.toString());
@@ -79,6 +80,14 @@ public class Main
             else if (command.equals("exit")) {
                 System.out.println("exiting ...");
                 break;
+            }
+            else if (command.equals("sleep")) {
+                try {
+                    Thread.sleep(scanner.nextInt());
+                }
+                catch (Exception ex) {
+                    System.err.println("failed to go to sleep: " + ex.toString());
+                }
             }
             else {
                 System.err.println("invalid command received: " + command);

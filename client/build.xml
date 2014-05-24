@@ -37,7 +37,7 @@
         <jar jarfile="${dist}/lib/client.jar" basedir="${build}">
             <manifest>
                 <attribute name="Main-Class" value="com.ucsd.whatsup.Main" />
-                <attribute name="Class-Path" value="."/>
+                <attribute name="Class-Path" value="${dist}/lib"/>
             </manifest>
         </jar>
     </target>

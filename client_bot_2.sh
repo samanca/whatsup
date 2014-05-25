@@ -5,11 +5,8 @@ TOTAL_CONTACTS=100
 #DOMAIN_NAME="localhost"
 DOMAIN_NAME="137.110.90.7"
 
-sleep 2s
 echo "$1@$DOMAIN_NAME"
-sleep 1s
 echo "$2"
-sleep 1s
 
 if [ -n "$3" ]; then
     TOTAL_CONTACTS=$3
@@ -21,7 +18,6 @@ fi
 
 # remove all existing contacts
 echo "remove-all"
-sleep 10s
 
 # add new contacts
 declare -a CONTACTS
@@ -33,9 +29,7 @@ while [ $COUNTER -lt $NUM_CONTACTS ]; do
     if [ "$CONTACT" -ne "$1" ]; then
         CONTACTS[$COUNTER]=$CONTACT
         echo "add"
-        sleep 1s
         echo "$CONTACT@$DOMAIN_NAME"
-        sleep 1s
         let COUNTER=COUNTER+1
     fi
 done
@@ -48,17 +42,17 @@ while [ $COUNTER -lt $TOTAL_MESSAGES ]; do
     CONTACT=${CONTACTS[$(( ( RANDOM % $NUM_CONTACTS ) ))]}
 
     echo "message"
-    sleep 1s
-    echo "$CONTACT@$DOMAIN_NAME"
-    sleep 1s
-    echo "hey $CONTACT! this is message #${COUNTER}"
-    sleep 5s
+    echo "$CONTACT@$DOMAIN_NAME message-number-${COUNTER}-to-client-${CONTACT}-at-${DOMAIN_NAME}-is-sent"
+    #echo "hey-$CONTACT!-this-is-message-#${COUNTER}"
+    
+    echo "sleep"
+    echo "1000"
 
     let COUNTER=COUNTER+1
 done
 
 # log
-echo "total message sent: $TOTAL_MESSAGES"
+#echo "total message sent: $TOTAL_MESSAGES"
 
 # exit
 echo "exit"

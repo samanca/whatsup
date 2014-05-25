@@ -66,10 +66,11 @@ public class Main
                 System.out.println("Enter contact address:");
                 String contact = scanner.next();
                 System.out.println("Enter message:");
-                BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+                //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
                 try {
-                    String message = br.readLine();
+                    //String message = br.readLine();
+                    String message = scanner.next();
                     manager.SendMessage(contact, message);
                     System.out.println("sending message: " + message);
                 }

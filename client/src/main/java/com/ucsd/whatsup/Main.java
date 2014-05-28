@@ -3,6 +3,7 @@ package com.ucsd.whatsup;
 import org.jivesoftware.smack.*;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
@@ -13,6 +14,7 @@ public class Main
 
     public static void main( String[] args )
     {
+        // read input parameters
         String username, password, hostname;
         Scanner scanner = new Scanner(System.in);
 
@@ -30,10 +32,12 @@ public class Main
             hostname = SERVER_NAME;
         }
 
+        // configuring the server
         ConnectionConfiguration config = new ConnectionConfiguration(hostname, SERVER_PORT);
         config.setCompressionEnabled(true);
         config.setSASLAuthenticationEnabled(true);
 
+        // open client connection
         Connection connection = new XMPPConnection(config);
         try {
             connection.connect();
@@ -45,6 +49,18 @@ public class Main
 
         MyContactManager manager = new MyContactManager(connection);
 
+        // implementing barrier
+        File f = new File("/tmp/whatsUp.lock");
+        while (f.exists()) {
+            try {
+                Thread.sleep(1);
+            }
+            catch (Exception ex) {
+                System.err.println("BARRIER SLEEPING ERROR: " + ex.toString());
+            }
+        }
+
+        // start message processing
         String command;
         while(true) {
             command = scanner.next();

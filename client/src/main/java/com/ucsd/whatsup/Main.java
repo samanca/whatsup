@@ -60,6 +60,8 @@ public class Main
             }
         }
 
+        System.out.println("Start running ...");
+
         // start message processing
         String command;
         while(true) {
@@ -111,7 +113,7 @@ public class Main
             }
         }
 
-        connection.disconnect();
+        try { connection.disconnect(); } catch (Exception ex) { /* ignore exception */ }
         System.exit(0);
     }
 }

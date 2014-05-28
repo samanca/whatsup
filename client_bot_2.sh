@@ -5,8 +5,16 @@ TOTAL_CONTACTS=100
 #DOMAIN_NAME="localhost"
 DOMAIN_NAME="137.110.90.7"
 
-echo "$1@$DOMAIN_NAME"
-echo "$2"
+RUN_DIR="run"
+LOAD_DIR="load"
+
+
+echo "$1@$DOMAIN_NAME" > "${LOAD_DIR}/${1}.txt"
+echo "$1@$DOMAIN_NAME" > "${RUN_DIR}/${1}.txt"
+echo "$2" >> "${LOAD_DIR}/${1}.txt"
+echo "$2" >> "${RUN_DIR}/${1}.txt"
+
+
 
 if [ -n "$3" ]; then
     TOTAL_CONTACTS=$3
@@ -17,7 +25,7 @@ if [ $TOTAL_CONTACTS -lt $NUM_CONTACTS ]; then
 fi
 
 # remove all existing contacts
-echo "remove-all"
+echo "remove-all" >> "${LOAD_DIR}/${1}.txt"
 
 # add new contacts
 declare -a CONTACTS
@@ -28,11 +36,14 @@ while [ $COUNTER -lt $NUM_CONTACTS ]; do
 
     if [ "$CONTACT" -ne "$1" ]; then
         CONTACTS[$COUNTER]=$CONTACT
-        echo "add"
-        echo "$CONTACT@$DOMAIN_NAME"
+        echo "add" >> "${LOAD_DIR}/${1}.txt"
+        echo "$CONTACT@$DOMAIN_NAME" >> "${LOAD_DIR}/${1}.txt"
         let COUNTER=COUNTER+1
     fi
 done
+
+echo "sleep" >> "${LOAD_DIR}/${1}.txt"
+echo "5000" >> "${LOAD_DIR}/${1}.txt"
 
 # sending messages
 COUNTER=0
@@ -41,18 +52,22 @@ while [ $COUNTER -lt $TOTAL_MESSAGES ]; do
 
     CONTACT=${CONTACTS[$(( ( RANDOM % $NUM_CONTACTS ) ))]}
 
-    echo "message"
-    echo "$CONTACT@$DOMAIN_NAME message-number-${COUNTER}-to-client-${CONTACT}-at-${DOMAIN_NAME}-is-sent"
-    #echo "hey-$CONTACT!-this-is-message-#${COUNTER}"
+    echo "message" >> "${RUN_DIR}/${1}.txt"
+    echo "$CONTACT@$DOMAIN_NAME message-number-${COUNTER}-to-client-${CONTACT}-at-${DOMAIN_NAME}-is-sent" >> "${RUN_DIR}/${1}.txt"
     
-    echo "sleep"
-    echo "1000"
+    echo "sleep" >> "${RUN_DIR}/${1}.txt"
+    echo "1000" >> "${RUN_DIR}/${1}.txt"
 
     let COUNTER=COUNTER+1
 done
 
-# log
-#echo "total message sent: $TOTAL_MESSAGES"
+echo "sleep" >> "${RUN_DIR}/${1}.txt"
+echo "5000" >> "${RUN_DIR}/${1}.txt"
+
+# cleanup before exit
+echo "remove-all" >> "${RUN_DIR}/${1}.txt"
+
 
 # exit
-echo "exit"
+echo "exit" >> "${LOAD_DIR}/${1}.txt"
+echo "exit" >> "${RUN_DIR}/${1}.txt"

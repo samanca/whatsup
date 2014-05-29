@@ -24,6 +24,13 @@ if [ $TOTAL_CONTACTS -lt $NUM_CONTACTS ]; then
     NUM_CONTACTS=$TOTAL_CONTACTS
 fi
 
+if [ -z "$4" ]; then
+    START_AT=1
+else
+    START_AT="$4"
+fi
+
+
 # remove all existing contacts
 echo "remove-all" >> "${LOAD_DIR}/${1}.txt"
 
@@ -33,6 +40,7 @@ COUNTER=0
 while [ $COUNTER -lt $NUM_CONTACTS ]; do
 
     CONTACT=$(( ( RANDOM % $TOTAL_CONTACTS )  + 1 ))
+    let CONTACT=CONTACT+START_AT-1
 
     if [ "$CONTACT" -ne "$1" ]; then
         CONTACTS[$COUNTER]=$CONTACT
@@ -51,6 +59,10 @@ let TOTAL_MESSAGES=$NUM_CONTACTS*$NUM_MESSAGES
 while [ $COUNTER -lt $TOTAL_MESSAGES ]; do
 
     CONTACT=${CONTACTS[$(( ( RANDOM % $NUM_CONTACTS ) ))]}
+
+#
+echo $CONTACT
+#
 
     echo "message" >> "${RUN_DIR}/${1}.txt"
     echo "$CONTACT@$DOMAIN_NAME message-number-${COUNTER}-to-client-${CONTACT}-at-${DOMAIN_NAME}-is-sent" >> "${RUN_DIR}/${1}.txt"

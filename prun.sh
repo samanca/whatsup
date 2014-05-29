@@ -21,7 +21,7 @@ COUNTER=$START
 while [ $COUNTER -le $END ]; do
     USER=$COUNTER
     PASSWORD="root"
-    java -cp client/dist/lib/smack-3.4.1-0cec571.jar:client/dist/lib/client.jar:client/dist/lib/smackx-3.4.1-0cec571.jar com.ucsd.whatsup.Main < "load/${COUNTER}.txt" & echo $! >"pid/${COUNTER}.pid"
+    java -cp client/dist/lib/smack-3.4.1-0cec571.jar:client/dist/lib/client.jar:client/dist/lib/smackx-3.4.1-0cec571.jar com.ucsd.whatsup.Main < "load/${COUNTER}.txt" > /dev/null & echo $! >"pid/${COUNTER}.pid"
     let COUNTER=COUNTER+1
 done
 
@@ -47,7 +47,7 @@ COUNTER=$START
 while [ $COUNTER -le $END ]; do
     USER=$COUNTER
     PASSWORD="root"
-    java -cp client/dist/lib/smack-3.4.1-0cec571.jar:client/dist/lib/client.jar:client/dist/lib/smackx-3.4.1-0cec571.jar com.ucsd.whatsup.Main < "run/${COUNTER}.txt" &
+    java -cp client/dist/lib/smack-3.4.1-0cec571.jar:client/dist/lib/client.jar:client/dist/lib/smackx-3.4.1-0cec571.jar com.ucsd.whatsup.Main < "run/${COUNTER}.txt" > /dev/null &
     let COUNTER=COUNTER+1
 done
 

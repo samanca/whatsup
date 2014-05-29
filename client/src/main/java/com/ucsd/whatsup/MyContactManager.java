@@ -23,7 +23,7 @@ public class MyContactManager {
         Collection<RosterEntry> entries = roster.getEntries();
         for (RosterEntry entry : entries) {
             chatManagers.put(entry.getUser(), new MyChatManager(connection, entry.getUser()));
-            System.err.println("user added: " + entry.getUser());
+            System.out.println("user added: " + entry.getUser());
         }
 
         roster.addRosterListener(new RosterListener() {
@@ -38,22 +38,22 @@ public class MyContactManager {
         synchronized (chatManagers) {
             chatManagers.put(contact, new MyChatManager(connection, contact));
         }
-        System.err.println("user added: " + contact);
+        System.out.println("user added: " + contact);
     }
 
     protected void DeleteContact(String contact) {
         synchronized (chatManagers) {
             chatManagers.remove(contact);
         }
-        System.err.println("user deleted: " + contact);
+        System.out.println("user deleted: " + contact);
     }
 
     protected void UpdateContact(String contact) {
-        System.err.println("user updated: " + contact);
+        System.out.println("user updated: " + contact);
     }
 
     protected void PresenceChanged(Presence presence) {
-        System.err.println("Presence changed: " + presence.getFrom() + " " + presence);
+        System.out.println("Presence changed: " + presence.getFrom() + " " + presence);
     }
 
     public void SendMessage(String contact, String message) throws XMPPException {

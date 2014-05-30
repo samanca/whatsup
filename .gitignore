@@ -13,3 +13,4 @@ hs_err_pid*
 
 std_out/
 std_err/
+simulator/MANIFEST.MF

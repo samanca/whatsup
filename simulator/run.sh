@@ -13,7 +13,7 @@ if [ -z $1 ]; then
     BASE_PATH=""
 else
     INPUT_FILE=$1
-    BASE_PATH="/home/ubuntu/simulator/"
+    BASE_PATH="/home/ubuntu/whatsup/simulator/"
 fi
 
 #ant && java -jar dist/lib/simulator.jar "$SERVER_IP" "$SERVER_PORT" "$TOTAL_CLIENTS" "$MESSAGES_PER_CLIENT" "$MESSAGE_SIZE" "$CLIENT_MESSAGE_DELAY" "$NUMBER_OF_CONTACTS" < input.txt

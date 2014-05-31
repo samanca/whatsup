@@ -23,7 +23,11 @@ public class WClient extends Thread {
     private Random random;
     private int failures;
 
-    public WClient() {
+    private static final int MAX_CONSECUTIVE_FAILURES = 10;
+    private static final int NUMBER_OF_ATTEMPTS = 3;
+
+    public WClient(String name) {
+        super(name);
         random = new Random();
         failures = 0;
     }
@@ -35,7 +39,8 @@ public class WClient extends Thread {
 
     public void run() {
 
-        WLogger.Log("Start running " + username);
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log("Start running " + username);
 
         // wait for all the other threads to initialize
         while (!Main.channel) {
@@ -47,7 +52,93 @@ public class WClient extends Thread {
             }
         }
 
-        WLogger.Log(username + " will configure connection shortly!");
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log(username + " is connecting to the server!");
+        Connection connection = getConnection();
+
+        // Create Chat instances
+        ArrayList<WChatManager> contacts = new ArrayList<WChatManager>();
+        for (int counter = 0; counter < number_of_contacts; counter++) {
+            String c = username;
+            while (c.equals(username)) c = randomContact();
+            contacts.add(new WChatManager(connection, c));
+        }
+
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log(username + " finished creating chat instances!");
+
+        // Send messages
+        int progress_bar = 0;
+        int consecutive_failures = 0;
+        int total = total_messages * number_of_contacts;
+        for (int counter = 0; counter < total; counter++) {
+
+            // Progress-bar
+            if (++progress_bar >= total / 10) {
+                progress_bar = 0;
+                if (Main.ENABLE_LOGGING)
+                    WLogger.Log(username + " has sent " + ((counter * 100) / total) + "% of his messages!");
+            }
+
+            // prepare message
+            String message = RandomStringUtils.random(message_size, true, true);
+
+            // choose a client as receiver
+            WChatManager c = contacts.get(random.nextInt(number_of_contacts));
+
+            // send message
+            boolean attempt_failed = true;
+            for (int attempt = 0; attempt_failed && attempt < NUMBER_OF_ATTEMPTS; attempt++) {
+                try {
+                    if (connection.isConnected()) {
+                        c.SendMessage(message);
+                        attempt_failed = false;
+                    }
+                    else {
+                        connection.connect();
+                    }
+                }
+                catch (Exception e) {
+                    WLogger.Error(e);
+                }
+            }
+
+            if (!attempt_failed) {
+                consecutive_failures = 0;
+            }
+            else {
+                failures++;
+                consecutive_failures++;
+            }
+
+            if (consecutive_failures == MAX_CONSECUTIVE_FAILURES) {
+                failures += (total - counter - 1);
+                break;
+            }
+
+            // wait before sending next message
+            if (delay > 0) {
+                try {
+                    sleep(delay);
+                }
+                catch (InterruptedException e) {
+                    //e.printStackTrace();
+                    WLogger.Error(e);
+                }
+            }
+        }
+
+        WLogger.RecordStats(failures, total);
+
+        // Close connection
+        if (connection.isConnected()) {
+            try {
+                connection.disconnect();
+            } catch (Exception ex) { /* ignore exception */ }
+        }
+    }
+
+    private Connection getConnection() {
 
         // Configuring the server
         ConnectionConfiguration config = new ConnectionConfiguration(server_ip, server_port);
@@ -73,51 +164,6 @@ public class WClient extends Thread {
                         chat.addMessageListener(new WMessageListener());
                 }
             });
-
-        // Create Chat instances
-        ArrayList<WChatManager> contacts = new ArrayList<WChatManager>();
-        for (int counter = 0; counter < number_of_contacts; counter++) {
-            String c = username;
-            while (c.equals(username)) c = randomContact();
-            contacts.add(new WChatManager(connection, c));
-        }
-
-        WLogger.Log(username + " finished creating chat instances!");
-
-        // Send messages
-        int total = total_messages * number_of_contacts;
-        for (int counter = 0; counter < total; counter++) {
-
-            // prepare message
-            String message = RandomStringUtils.random(message_size, true, true);
-
-            // choose a client as receiver
-            WChatManager c = contacts.get(random.nextInt(number_of_contacts));
-
-            // send message
-            try {
-                c.SendMessage(message);
-            } catch (XMPPException e) {
-                //e.printStackTrace();
-                failures++;
-                WLogger.Error(e);
-            }
-
-            // wait before sending next message
-            if (delay > 0) {
-                try {
-                    sleep(delay);
-                }
-                catch (InterruptedException e) {
-                    //e.printStackTrace();
-                    WLogger.Error(e);
-                }
-            }
-        }
-
-        // Close connection
-        try { connection.disconnect(); } catch (Exception ex) { /* ignore exception */ }
-
-        WLogger.RecordStats(failures, total);
+        return connection;
     }
 }

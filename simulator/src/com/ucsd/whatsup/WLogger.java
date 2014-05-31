@@ -32,4 +32,19 @@ public class WLogger {
     public static void PrintStats() {
         Log("Failures: " + _failures + " - Total: " + _total);
     }
+
+    private static long startTime = 0;
+
+    public static synchronized void StartTimer() {
+        if (startTime > 0) return;
+        startTime = System.currentTimeMillis();
+    }
+
+    public static synchronized void StopTimer() {
+        if (startTime > 0) {
+            long endTime = System.currentTimeMillis();
+            System.out.println("Total time: " + (endTime - startTime) + "ms");
+        }
+        startTime = 0;
+    }
 }

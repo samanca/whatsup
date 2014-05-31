@@ -7,6 +7,8 @@ public class Main {
 
     public static Boolean channel = false;
 
+    public static final boolean ENABLE_LOGGING = false;
+
     public static void main(String[] args) {
 
         if (args.length != 7) {
@@ -48,7 +50,8 @@ public class Main {
             my_clients.add(c);
         }
 
-        WLogger.Log("Start initializing the clients");
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log("Start initializing the clients");
 
         // Initialize the clients
         ArrayList<WClient> clients = new ArrayList<WClient>();
@@ -56,7 +59,7 @@ public class Main {
             String username = client.substring(0, client.indexOf("|"));
             String password = client.substring(client.indexOf("|") + 1);
 
-            WClient c = new WClient();
+            WClient c = new WClient("T" + username);
             c.server_ip = server_ip;
             c.server_port = server_port;
             c.username = username;
@@ -70,12 +73,15 @@ public class Main {
             clients.add(c);
             c.start();
 
-            WLogger.Log(username + " initialized!");
+            if (Main.ENABLE_LOGGING)
+                WLogger.Log(username + " initialized!");
         }
 
-        WLogger.Log("Finished initializing clients");
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log("Finished initializing clients");
 
         channel = true;
+        WLogger.StartTimer();
 
         // Wait for the clients to join
         for(WClient client : clients) {
@@ -83,8 +89,10 @@ public class Main {
             catch (InterruptedException e) { /*e.printStackTrace();*/ WLogger.Error(e); }
         }
 
+        WLogger.StopTimer();
         WLogger.Log("Terminated successfully");
         WLogger.PrintStats();
+
 
         System.exit(0);
     }

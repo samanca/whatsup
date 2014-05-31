@@ -8,6 +8,7 @@ public class WMessageListener implements MessageListener{
 
     @Override
     public void processMessage(Chat chat, Message message) {
-        WLogger.Log(message.getTo() + " received a new message from " + message.getFrom());
+        if (Main.ENABLE_LOGGING)
+            WLogger.Log(message.getTo() + " received a new message from " + message.getFrom());
     }
 }

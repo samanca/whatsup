@@ -15,4 +15,5 @@ else
 fi
 
 #ant && java -jar dist/lib/simulator.jar "$SERVER_IP" "$SERVER_PORT" "$TOTAL_CLIENTS" "$MESSAGES_PER_CLIENT" "$MESSAGE_SIZE" "$CLIENT_MESSAGE_DELAY" "$NUMBER_OF_CONTACTS" < input.txt
+echo "input file is set to $INPUT_FILE"
 java -jar dist/lib/simulator.jar "$SERVER_IP" "$SERVER_PORT" "$TOTAL_CLIENTS" "$MESSAGES_PER_CLIENT" "$MESSAGE_SIZE" "$CLIENT_MESSAGE_DELAY" "$NUMBER_OF_CONTACTS" < "$INPUT_FILE"

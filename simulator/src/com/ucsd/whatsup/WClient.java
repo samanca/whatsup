@@ -76,8 +76,8 @@ public class WClient extends Thread {
             // Progress-bar
             if (++progress_bar >= total / 10) {
                 progress_bar = 0;
-                if (Main.ENABLE_LOGGING)
-                    WLogger.Log(username + " has sent " + ((counter * 100) / total) + "% of his messages!");
+                //if (Main.ENABLE_LOGGING)
+                WLogger.Log(username + " has sent " + ((counter * 100) / total) + "% of his messages!");
             }
 
             // prepare message

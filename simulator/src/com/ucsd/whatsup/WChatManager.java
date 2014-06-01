@@ -7,6 +7,12 @@ public class WChatManager {
 
     private Chat myChat;
 
+
+    private int messages_received = 0;
+    public synchronized void onMessageReceive() {
+        messages_received++;
+    }
+
     public WChatManager(final Connection connection, final String contact) {
         ChatManager chatmanager = connection.getChatManager();
         myChat = chatmanager.createChat(contact, new MessageListener() {
@@ -15,6 +21,7 @@ public class WChatManager {
                     WLogger.Log(connection.getUser() + " received a new message from " +
                             contact + ": " + message.getBody());
                 }
+                onMessageReceive();
             }
         });
     }

@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class WLogger {
 
-    private static SimpleDateFormat dateFormat = new SimpleDateFormat ("yyyy-MM-dd");
+    private static SimpleDateFormat dateFormat = new SimpleDateFormat ("yyyy-MM-dd H:m:s:S");
 
     public static synchronized void Log(String text) {
         Date date = new Date();

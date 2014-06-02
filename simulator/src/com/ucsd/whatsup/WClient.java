@@ -143,7 +143,7 @@ public class WClient extends Thread {
         // Configuring the server
         ConnectionConfiguration config = new ConnectionConfiguration(server_ip, server_port);
         config.setCompressionEnabled(true);
-        config.setSASLAuthenticationEnabled(false);
+        config.setSASLAuthenticationEnabled(true);
 
         // Connect to the server
         Connection connection = new XMPPConnection(config);

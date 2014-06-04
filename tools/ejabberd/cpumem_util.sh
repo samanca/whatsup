@@ -6,7 +6,8 @@ do
         continue
     fi
     DT=`date`
-    OUTPUT=`ps -p "$PID" -o %cpu,%mem`
-    echo "$DT   $OUTPUT"
+    OUTPUT=`top -p "$PID" -b -n 1 | awk 'NR==7||NR==8'`
+    echo "$DT"
+    echo "$OUTPUT"
     sleep 1
 done

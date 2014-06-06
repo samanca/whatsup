@@ -1,7 +1,7 @@
 #!/bin/bash
 #SERVER_IP="132.239.10.209"
 #SERVER_IP="54.200.164.190"
-SERVER_IP="saman.ucsd.edu"
+SERVER_IP="openfire-1306105627.us-west-2.elb.amazonaws.com"
 SERVER_PORT=5222
 TOTAL_CLIENTS=1600
 MESSAGES_PER_CLIENT=500

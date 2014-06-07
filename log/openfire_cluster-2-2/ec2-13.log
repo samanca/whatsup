@@ -1,0 +1,26 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-13.input
+[2014-06-07 1:15:26:628]	995 has sent 9% of his messages!
+[2014-06-07 1:15:27:546]	1024 has sent 9% of his messages!
+[2014-06-07 1:15:27:597]	1007 has sent 9% of his messages!
+[2014-06-07 1:15:27:800]	979 has sent 9% of his messages!
+[2014-06-07 1:15:27:826]	987 has sent 9% of his messages!
+[2014-06-07 1:15:27:830]	1029 has sent 9% of his messages!
+[2014-06-07 1:15:27:835]	1002 has sent 9% of his messages!
+[2014-06-07 1:15:27:976]	999 has sent 9% of his messages!
+[2014-06-07 1:15:27:979]	985 has sent 9% of his messages!
+[2014-06-07 1:15:28:49]	974 has sent 9% of his messages!
+[2014-06-07 1:15:28:73]	1011 has sent 9% of his messages!
+[2014-06-07 1:15:28:110]	1019 has sent 9% of his messages!
+[2014-06-07 1:15:28:115]	1033 has sent 9% of his messages!
+[2014-06-07 1:15:28:331]	1031 has sent 9% of his messages!
+[2014-06-07 1:15:28:334]	976 has sent 9% of his messages!
+[2014-06-07 1:15:28:397]	976 has sent 19% of his messages!
+[2014-06-07 1:15:28:398]	1031 has sent 19% of his messages!
+[2014-06-07 1:15:28:402]	1011 has sent 19% of his messages!
+[2014-06-07 1:15:28:460]	979 has sent 19% of his messages!
+[2014-06-07 1:15:28:524]	996 has sent 9% of his messages!
+[2014-06-07 1:15:28:608]	996 has sent 19% of his messages!
+[2014-06-07 1:15:28:641]	996 has sent 29% of his messages!
+Total time: 505921ms
+[2014-06-07 1:23:0:467]	Terminated successfully
+[2014-06-07 1:23:0:467]	Failures: 377403 - Total: 400000

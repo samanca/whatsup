@@ -1,0 +1,32 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-12.input
+[2014-06-07 1:15:26:507]	920 has sent 9% of his messages!
+[2014-06-07 1:15:27:298]	912 has sent 9% of his messages!
+[2014-06-07 1:15:27:360]	924 has sent 9% of his messages!
+[2014-06-07 1:15:27:363]	907 has sent 9% of his messages!
+[2014-06-07 1:15:27:415]	930 has sent 9% of his messages!
+[2014-06-07 1:15:27:552]	934 has sent 9% of his messages!
+[2014-06-07 1:15:27:582]	906 has sent 9% of his messages!
+[2014-06-07 1:15:27:627]	932 has sent 9% of his messages!
+[2014-06-07 1:15:27:738]	894 has sent 9% of his messages!
+[2014-06-07 1:15:27:742]	905 has sent 9% of his messages!
+[2014-06-07 1:15:27:818]	943 has sent 9% of his messages!
+[2014-06-07 1:15:27:819]	960 has sent 9% of his messages!
+[2014-06-07 1:15:27:941]	910 has sent 9% of his messages!
+[2014-06-07 1:15:28:79]	919 has sent 9% of his messages!
+[2014-06-07 1:15:28:92]	922 has sent 9% of his messages!
+[2014-06-07 1:15:28:195]	901 has sent 9% of his messages!
+[2014-06-07 1:15:28:201]	913 has sent 9% of his messages!
+[2014-06-07 1:15:28:226]	944 has sent 9% of his messages!
+[2014-06-07 1:15:28:264]	903 has sent 9% of his messages!
+[2014-06-07 1:15:28:389]	914 has sent 9% of his messages!
+[2014-06-07 1:15:28:468]	927 has sent 9% of his messages!
+[2014-06-07 1:15:28:547]	933 has sent 9% of his messages!
+[2014-06-07 1:15:28:552]	957 has sent 9% of his messages!
+[2014-06-07 1:15:28:653]	891 has sent 9% of his messages!
+[2014-06-07 1:15:28:694]	917 has sent 9% of his messages!
+[2014-06-07 1:15:28:697]	931 has sent 9% of his messages!
+[2014-06-07 1:15:28:726]	935 has sent 9% of his messages!
+[2014-06-07 1:16:58:176]	923 has sent 9% of his messages!
+Total time: 506899ms
+[2014-06-07 1:23:0:300]	Terminated successfully
+[2014-06-07 1:23:0:300]	Failures: 377818 - Total: 400000

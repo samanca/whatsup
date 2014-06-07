@@ -1,0 +1,20 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-10.input
+[2014-06-07 0:48:12:779]	781 has sent 9% of his messages!
+[2014-06-07 0:48:12:788]	740 has sent 9% of his messages!
+[2014-06-07 0:48:12:792]	774 has sent 9% of his messages!
+[2014-06-07 0:48:12:805]	730 has sent 9% of his messages!
+[2014-06-07 0:48:12:805]	784 has sent 9% of his messages!
+[2014-06-07 0:48:12:874]	741 has sent 9% of his messages!
+[2014-06-07 0:48:12:933]	740 has sent 19% of his messages!
+[2014-06-07 0:48:12:951]	752 has sent 9% of his messages!
+[2014-06-07 0:48:12:963]	745 has sent 9% of his messages!
+[2014-06-07 0:48:13:107]	739 has sent 9% of his messages!
+[2014-06-07 0:48:13:123]	776 has sent 9% of his messages!
+[2014-06-07 0:48:13:183]	724 has sent 9% of his messages!
+[2014-06-07 0:48:13:252]	730 has sent 19% of his messages!
+[2014-06-07 0:48:13:269]	730 has sent 29% of his messages!
+[2014-06-07 0:48:13:297]	730 has sent 39% of his messages!
+[2014-06-07 0:52:43:554]	789 has sent 9% of his messages!
+Total time: 504126ms
+[2014-06-07 0:55:43:664]	Terminated successfully
+[2014-06-07 0:55:43:664]	Failures: 384462 - Total: 400000

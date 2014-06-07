@@ -1,0 +1,57 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-16.input
+[2014-06-07 1:15:29:788]	1215 has sent 9% of his messages!
+[2014-06-07 1:15:29:944]	1248 has sent 9% of his messages!
+[2014-06-07 1:15:29:948]	1219 has sent 9% of his messages!
+[2014-06-07 1:15:29:963]	1224 has sent 9% of his messages!
+[2014-06-07 1:15:29:963]	1276 has sent 9% of his messages!
+[2014-06-07 1:15:30:226]	1276 has sent 19% of his messages!
+[2014-06-07 1:15:30:258]	1236 has sent 9% of his messages!
+[2014-06-07 1:15:30:274]	1219 has sent 19% of his messages!
+[2014-06-07 1:15:30:390]	1248 has sent 19% of his messages!
+[2014-06-07 1:15:30:485]	1276 has sent 29% of his messages!
+[2014-06-07 1:15:30:604]	1236 has sent 19% of his messages!
+[2014-06-07 1:15:30:623]	1219 has sent 29% of his messages!
+[2014-06-07 1:15:30:661]	1224 has sent 19% of his messages!
+[2014-06-07 1:15:30:700]	1215 has sent 19% of his messages!
+[2014-06-07 1:15:31:29]	1276 has sent 39% of his messages!
+[2014-06-07 1:15:31:166]	1219 has sent 39% of his messages!
+[2014-06-07 1:15:31:249]	1248 has sent 29% of his messages!
+[2014-06-07 1:15:31:253]	1236 has sent 29% of his messages!
+[2014-06-07 1:15:31:283]	1224 has sent 29% of his messages!
+[2014-06-07 1:15:31:456]	1215 has sent 29% of his messages!
+[2014-06-07 1:15:31:473]	1276 has sent 49% of his messages!
+[2014-06-07 1:15:31:490]	1236 has sent 39% of his messages!
+[2014-06-07 1:15:31:692]	1219 has sent 49% of his messages!
+[2014-06-07 1:15:31:795]	1248 has sent 39% of his messages!
+[2014-06-07 1:15:31:878]	1236 has sent 49% of his messages!
+[2014-06-07 1:15:31:894]	1276 has sent 59% of his messages!
+[2014-06-07 1:15:31:899]	1236 has sent 59% of his messages!
+[2014-06-07 1:15:31:915]	1276 has sent 69% of his messages!
+[2014-06-07 1:15:31:931]	1248 has sent 49% of his messages!
+[2014-06-07 1:15:31:959]	1236 has sent 69% of his messages!
+[2014-06-07 1:15:31:980]	1276 has sent 79% of his messages!
+[2014-06-07 1:15:31:990]	1248 has sent 59% of his messages!
+[2014-06-07 1:15:31:997]	1236 has sent 79% of his messages!
+[2014-06-07 1:15:32:29]	1248 has sent 69% of his messages!
+[2014-06-07 1:15:32:84]	1224 has sent 39% of his messages!
+[2014-06-07 1:15:32:172]	1215 has sent 39% of his messages!
+[2014-06-07 1:15:32:284]	1219 has sent 59% of his messages!
+[2014-06-07 1:15:32:317]	1224 has sent 49% of his messages!
+[2014-06-07 1:15:32:361]	1215 has sent 49% of his messages!
+[2014-06-07 1:15:32:561]	1219 has sent 69% of his messages!
+[2014-06-07 1:15:32:619]	1215 has sent 59% of his messages!
+[2014-06-07 1:15:32:757]	1224 has sent 59% of his messages!
+[2014-06-07 1:15:32:860]	1215 has sent 69% of his messages!
+[2014-06-07 1:15:32:880]	1219 has sent 79% of his messages!
+[2014-06-07 1:15:33:91]	1224 has sent 69% of his messages!
+[2014-06-07 1:15:33:185]	1219 has sent 89% of his messages!
+[2014-06-07 1:15:33:263]	1215 has sent 79% of his messages!
+[2014-06-07 1:15:33:505]	1224 has sent 79% of his messages!
+[2014-06-07 1:15:33:522]	1215 has sent 89% of his messages!
+[2014-06-07 1:15:33:523]	1219 has sent 99% of his messages!
+[2014-06-07 1:15:33:730]	1215 has sent 99% of his messages!
+[2014-06-07 1:15:33:771]	1224 has sent 89% of his messages!
+[2014-06-07 1:15:34:15]	1224 has sent 99% of his messages!
+Total time: 504383ms
+[2014-06-07 1:23:2:280]	Terminated successfully
+[2014-06-07 1:23:2:280]	Failures: 372556 - Total: 400000

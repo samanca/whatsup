@@ -1,0 +1,52 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-10.input
+[2014-06-07 1:15:26:214]	751 has sent 9% of his messages!
+[2014-06-07 1:15:26:439]	744 has sent 9% of his messages!
+[2014-06-07 1:15:26:465]	773 has sent 9% of his messages!
+[2014-06-07 1:15:26:479]	781 has sent 9% of his messages!
+[2014-06-07 1:15:26:479]	787 has sent 9% of his messages!
+[2014-06-07 1:15:26:520]	736 has sent 9% of his messages!
+[2014-06-07 1:15:26:535]	756 has sent 9% of his messages!
+[2014-06-07 1:15:26:542]	776 has sent 9% of his messages!
+[2014-06-07 1:15:26:558]	741 has sent 9% of his messages!
+[2014-06-07 1:15:26:585]	730 has sent 9% of his messages!
+[2014-06-07 1:15:26:606]	745 has sent 9% of his messages!
+[2014-06-07 1:15:26:621]	754 has sent 9% of his messages!
+[2014-06-07 1:15:26:632]	779 has sent 9% of his messages!
+[2014-06-07 1:15:26:911]	784 has sent 9% of his messages!
+[2014-06-07 1:15:26:927]	724 has sent 9% of his messages!
+[2014-06-07 1:15:26:928]	752 has sent 9% of his messages!
+[2014-06-07 1:15:26:931]	795 has sent 9% of his messages!
+[2014-06-07 1:15:26:961]	798 has sent 9% of his messages!
+[2014-06-07 1:15:27:46]	740 has sent 9% of his messages!
+[2014-06-07 1:15:27:179]	778 has sent 9% of his messages!
+[2014-06-07 1:15:27:299]	775 has sent 9% of his messages!
+[2014-06-07 1:15:27:316]	789 has sent 9% of his messages!
+[2014-06-07 1:15:27:324]	800 has sent 9% of his messages!
+[2014-06-07 1:15:27:333]	728 has sent 9% of his messages!
+[2014-06-07 1:15:27:335]	747 has sent 9% of his messages!
+[2014-06-07 1:15:27:350]	772 has sent 9% of his messages!
+[2014-06-07 1:15:27:387]	733 has sent 9% of his messages!
+[2014-06-07 1:15:27:387]	797 has sent 9% of his messages!
+[2014-06-07 1:15:27:399]	785 has sent 9% of his messages!
+[2014-06-07 1:15:27:525]	746 has sent 9% of his messages!
+[2014-06-07 1:15:27:559]	791 has sent 9% of his messages!
+[2014-06-07 1:15:27:563]	738 has sent 9% of his messages!
+[2014-06-07 1:15:27:809]	756 has sent 19% of his messages!
+[2014-06-07 1:15:27:826]	772 has sent 19% of his messages!
+[2014-06-07 1:15:27:831]	780 has sent 9% of his messages!
+[2014-06-07 1:15:27:846]	785 has sent 19% of his messages!
+[2014-06-07 1:15:27:877]	723 has sent 9% of his messages!
+[2014-06-07 1:15:27:877]	743 has sent 9% of his messages!
+[2014-06-07 1:15:27:892]	753 has sent 9% of his messages!
+[2014-06-07 1:15:27:892]	762 has sent 9% of his messages!
+[2014-06-07 1:15:27:915]	726 has sent 9% of his messages!
+[2014-06-07 1:15:27:929]	736 has sent 19% of his messages!
+[2014-06-07 1:15:27:944]	730 has sent 19% of his messages!
+[2014-06-07 1:15:27:947]	733 has sent 19% of his messages!
+[2014-06-07 1:15:27:951]	784 has sent 19% of his messages!
+[2014-06-07 1:15:28:39]	776 has sent 19% of his messages!
+[2014-06-07 1:15:28:56]	746 has sent 19% of his messages!
+[2014-06-07 1:15:28:78]	776 has sent 29% of his messages!
+Total time: 510571ms
+[2014-06-07 1:23:1:899]	Terminated successfully
+[2014-06-07 1:23:1:899]	Failures: 366977 - Total: 400000

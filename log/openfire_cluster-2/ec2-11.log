@@ -1,0 +1,52 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-11.input
+[2014-06-07 0:48:13:492]	861 has sent 9% of his messages!
+[2014-06-07 0:48:13:596]	805 has sent 9% of his messages!
+[2014-06-07 0:48:13:611]	856 has sent 9% of his messages!
+[2014-06-07 0:48:13:617]	811 has sent 9% of his messages!
+[2014-06-07 0:48:13:627]	854 has sent 9% of his messages!
+[2014-06-07 0:48:13:632]	844 has sent 9% of his messages!
+[2014-06-07 0:48:13:648]	836 has sent 9% of his messages!
+[2014-06-07 0:48:13:664]	810 has sent 9% of his messages!
+[2014-06-07 0:48:13:674]	866 has sent 9% of his messages!
+[2014-06-07 0:48:13:676]	827 has sent 9% of his messages!
+[2014-06-07 0:48:13:680]	829 has sent 9% of his messages!
+[2014-06-07 0:48:13:692]	825 has sent 9% of his messages!
+[2014-06-07 0:48:13:696]	804 has sent 9% of his messages!
+[2014-06-07 0:48:13:708]	877 has sent 9% of his messages!
+[2014-06-07 0:48:13:727]	864 has sent 9% of his messages!
+[2014-06-07 0:48:13:728]	801 has sent 9% of his messages!
+[2014-06-07 0:48:13:730]	870 has sent 9% of his messages!
+[2014-06-07 0:48:13:738]	857 has sent 9% of his messages!
+[2014-06-07 0:48:13:752]	814 has sent 9% of his messages!
+[2014-06-07 0:48:13:776]	820 has sent 9% of his messages!
+[2014-06-07 0:48:13:780]	816 has sent 9% of his messages!
+[2014-06-07 0:48:13:807]	806 has sent 9% of his messages!
+[2014-06-07 0:48:13:923]	868 has sent 9% of his messages!
+[2014-06-07 0:48:13:925]	817 has sent 9% of his messages!
+[2014-06-07 0:48:13:944]	858 has sent 9% of his messages!
+[2014-06-07 0:48:13:958]	843 has sent 9% of his messages!
+[2014-06-07 0:48:13:972]	818 has sent 9% of his messages!
+[2014-06-07 0:48:14:55]	880 has sent 9% of his messages!
+[2014-06-07 0:48:14:73]	802 has sent 9% of his messages!
+[2014-06-07 0:48:14:89]	807 has sent 9% of his messages!
+[2014-06-07 0:48:14:118]	853 has sent 9% of his messages!
+[2014-06-07 0:48:14:138]	845 has sent 9% of his messages!
+[2014-06-07 0:48:14:150]	869 has sent 9% of his messages!
+[2014-06-07 0:48:14:153]	803 has sent 9% of his messages!
+[2014-06-07 0:48:14:248]	830 has sent 9% of his messages!
+[2014-06-07 0:48:14:248]	871 has sent 9% of his messages!
+[2014-06-07 0:48:14:350]	846 has sent 9% of his messages!
+[2014-06-07 0:48:14:380]	860 has sent 9% of his messages!
+[2014-06-07 0:48:14:382]	876 has sent 9% of his messages!
+[2014-06-07 0:48:14:384]	865 has sent 9% of his messages!
+[2014-06-07 0:48:14:515]	870 has sent 19% of his messages!
+[2014-06-07 0:48:14:988]	825 has sent 19% of his messages!
+[2014-06-07 0:48:15:360]	869 has sent 19% of his messages!
+[2014-06-07 0:48:15:419]	860 has sent 19% of his messages!
+[2014-06-07 0:48:15:439]	858 has sent 19% of his messages!
+[2014-06-07 0:48:15:456]	866 has sent 19% of his messages!
+[2014-06-07 0:48:15:523]	803 has sent 19% of his messages!
+[2014-06-07 0:48:15:676]	853 has sent 19% of his messages!
+Total time: 517919ms
+[2014-06-07 0:55:58:406]	Terminated successfully
+[2014-06-07 0:55:58:406]	Failures: 365972 - Total: 400000

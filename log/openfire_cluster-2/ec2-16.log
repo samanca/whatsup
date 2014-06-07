@@ -1,0 +1,39 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-16.input
+[2014-06-07 0:48:18:87]	1268 has sent 9% of his messages!
+[2014-06-07 0:48:18:92]	1222 has sent 9% of his messages!
+[2014-06-07 0:48:18:106]	1234 has sent 9% of his messages!
+[2014-06-07 0:48:18:154]	1238 has sent 9% of his messages!
+[2014-06-07 0:48:18:158]	1272 has sent 9% of his messages!
+[2014-06-07 0:48:18:169]	1273 has sent 9% of his messages!
+[2014-06-07 0:48:18:186]	1236 has sent 9% of his messages!
+[2014-06-07 0:48:18:298]	1223 has sent 9% of his messages!
+[2014-06-07 0:48:18:444]	1248 has sent 9% of his messages!
+[2014-06-07 0:48:18:639]	1273 has sent 19% of his messages!
+[2014-06-07 0:48:18:689]	1234 has sent 19% of his messages!
+[2014-06-07 0:48:18:692]	1222 has sent 19% of his messages!
+[2014-06-07 0:48:18:692]	1242 has sent 9% of his messages!
+[2014-06-07 0:48:18:702]	1224 has sent 9% of his messages!
+[2014-06-07 0:48:18:706]	1210 has sent 9% of his messages!
+[2014-06-07 0:48:18:742]	1261 has sent 9% of his messages!
+[2014-06-07 0:48:18:819]	1266 has sent 9% of his messages!
+[2014-06-07 0:48:18:959]	1266 has sent 19% of his messages!
+[2014-06-07 0:48:19:291]	1266 has sent 29% of his messages!
+[2014-06-07 0:48:19:462]	1261 has sent 19% of his messages!
+[2014-06-07 0:48:19:577]	1266 has sent 39% of his messages!
+[2014-06-07 0:48:19:872]	1266 has sent 49% of his messages!
+[2014-06-07 0:48:19:908]	1261 has sent 29% of his messages!
+[2014-06-07 0:48:20:141]	1266 has sent 59% of his messages!
+[2014-06-07 0:48:20:213]	1261 has sent 39% of his messages!
+[2014-06-07 0:48:20:395]	1266 has sent 69% of his messages!
+[2014-06-07 0:48:20:526]	1261 has sent 49% of his messages!
+[2014-06-07 0:48:20:589]	1266 has sent 79% of his messages!
+[2014-06-07 0:48:20:722]	1261 has sent 59% of his messages!
+[2014-06-07 0:48:20:793]	1266 has sent 89% of his messages!
+[2014-06-07 0:48:20:924]	1266 has sent 99% of his messages!
+[2014-06-07 0:48:21:5]	1261 has sent 69% of his messages!
+[2014-06-07 0:48:21:228]	1261 has sent 79% of his messages!
+[2014-06-07 0:48:21:344]	1261 has sent 89% of his messages!
+[2014-06-07 0:48:21:410]	1261 has sent 99% of his messages!
+Total time: 504500ms
+[2014-06-07 0:55:50:589]	Terminated successfully
+[2014-06-07 0:55:50:589]	Failures: 378432 - Total: 400000

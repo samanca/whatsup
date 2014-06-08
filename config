@@ -119,3 +119,23 @@ Host ec2-server-m4
   Hostname        172.31.40.230
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-x1
+  Hostname        172.31.0.64
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-x2
+  Hostname        172.31.0.62
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-x3
+  Hostname        172.31.0.63
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-x4
+  Hostname        172.31.0.61
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem

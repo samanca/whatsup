@@ -15,7 +15,7 @@ Host ec2-3
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-4
-  Hostname        172.31.35.232
+  Hostname        172.31.41.78
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 

@@ -141,21 +141,21 @@ Host ec2-server-x4
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-x5
-  Hostname        172.31.6.26
+  Hostname        172.31.6.25
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-x6
-  Hostname        172.31.6.27
+  Hostname        172.31.6.26
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-x7
-  Hostname        172.31.6.28
+  Hostname        172.31.6.27
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-x8
-  Hostname        172.31.6.29
+  Hostname        172.31.6.28
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem

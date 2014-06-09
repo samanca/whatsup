@@ -159,3 +159,8 @@ Host ec2-server-x8
   Hostname        172.31.6.28
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-mongo
+  Hostname        172.31.14.62
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem

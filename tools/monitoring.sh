@@ -5,6 +5,10 @@ then
     echo "starting ..."
     for SERVER in "$@"
     do
+        if [ "$SERVER" = "start" ]
+        then
+            continue
+        fi
         ssh "$SERVER" "cd whatsup && git pull && cd ~/whatsup/tools/${MODE}/start.sh" &
     done
 elif [ "$1" = "stop" ]
@@ -18,6 +22,10 @@ then
 
     for SERVER in "@"
     do
+        if [ "$SERVER" = "stop" ]
+        then
+            continue
+        fi
         mkdir -p "${PATH}/${SERVER}"
         scp -r "${SERVER}:~/whatsup/tools/${MODE}/logs/*" "${PATH}/${SERVER}"
         ssh "$SERVER" "reboot"

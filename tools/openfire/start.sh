@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -rf ./logs/*
 ./fd_q.sh >> ./logs/fd_q.log &
 ./../shared/tcp_q.sh >> ./logs/tcp_q.log &
 ./thread_q.sh >> ./logs/thread_q.log &

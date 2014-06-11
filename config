@@ -364,8 +364,3 @@ Host ec2-server-mongo
   Hostname        172.31.14.62
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
-
-Host ec2-loadbalancer
-    Hostname        54.187.90.83
-    User            ubuntu
-    IdentityFile    ~/.ssh/harsha_keypair.pem

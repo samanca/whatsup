@@ -99,6 +99,106 @@ Host ec2-20
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
+Host ec2-21
+    Hostname        172.31.14.8
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-22
+    Hostname        172.31.14.9
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-23
+    Hostname        172.31.14.10
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-24
+    Hostname        172.31.14.11
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-25
+    Hostname        172.31.14.12
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-26
+    Hostname        172.31.14.13
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-27
+    Hostname        172.31.14.14
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-28
+    Hostname        172.31.14.15
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-29
+    Hostname        172.31.14.16
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-30
+    Hostname        172.31.14.17
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-31
+    Hostname        172.31.14.18
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-32
+    Hostname        172.31.14.19
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-33
+    Hostname        172.31.14.20
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-34
+    Hostname        172.31.14.21
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-35
+    Hostname        172.31.14.22
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-36
+    Hostname        172.31.14.23
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-37
+    Hostname        172.31.14.24
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-38
+    Hostname        172.31.14.25
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-39
+    Hostname        172.31.14.26
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
+Host ec2-40
+    Hostname        172.31.14.27
+    Hostname        ubuntu
+    IdentityFile    ~/.ssh/keyvaluepair1.pem
+
 # Servers
 Host ec2-server-m1
   Hostname        172.31.32.193
@@ -117,6 +217,26 @@ Host ec2-server-m3
 
 Host ec2-server-m4
   Hostname        172.31.40.230
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-m5
+  Hostname        172.31.6.93
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-m6
+  Hostname        172.31.6.94
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-m7
+  Hostname        172.31.6.95
+  User            ubuntu
+  IdentityFile    ~/.ssh/harsha_keypair.pem
+
+Host ec2-server-m8
+  Hostname        172.31.6.96
   User            ubuntu
   IdentityFile    ~/.ssh/harsha_keypair.pem
 

@@ -17,7 +17,7 @@ do
         CPU=`echo "$line" | awk '{ print $9 }'`
 
         let diff=TIME-ORIGIN
-        echo "$diff $CPU"
+        echo -e "$diff\t$CPU"
     fi
 
     let COUNTER=COUNTER+1

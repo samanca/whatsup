@@ -9,7 +9,7 @@ then
         then
             continue
         fi
-        ssh "$SERVER" "cd whatsup && git pull && cd ~/whatsup/tools/${MODE}/start.sh" &
+        ssh "$SERVER" "cd whatsup && git pull && cd ~/whatsup/tools/${MODE} && ./start.sh" &
     done
 elif [ "$1" = "stop" ]
 then
@@ -17,18 +17,19 @@ then
     mkdir -p "logs"
     mkdir -p "logs/${MODE}"
     
-    PATH="logs/${MODE}/last_run"
-    mkdir -p "$PATH"
+    TPATH="logs/${MODE}/last_run"
+    mkdir -p "$TPATH"
 
-    for SERVER in "@"
+    for SERVER in "$@"
     do
         if [ "$SERVER" = "stop" ]
         then
             continue
         fi
-        mkdir -p "${PATH}/${SERVER}"
-        scp -r "${SERVER}:~/whatsup/tools/${MODE}/logs/*" "${PATH}/${SERVER}"
-        ssh "$SERVER" "reboot"
+
+        mkdir -p "${TPATH}/${SERVER}"
+        scp -r "${SERVER}:~/whatsup/tools/${MODE}/logs/*" "${TPATH}/${SERVER}"
+        ssh "$SERVER" "sudo reboot"
     done
 else
     echo "invalid command - expected start or stop!"

@@ -1,0 +1,2541 @@
+Wed Jun 11 19:59:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.40 java
+Wed Jun 11 19:59:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.41 java
+Wed Jun 11 19:59:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.41 java
+Wed Jun 11 19:59:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   6.6  1.0   0:21.43 java
+Wed Jun 11 19:59:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.44 java
+Wed Jun 11 19:59:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.44 java
+Wed Jun 11 19:59:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.44 java
+Wed Jun 11 19:59:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.45 java
+Wed Jun 11 19:59:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.45 java
+Wed Jun 11 19:59:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.47 java
+Wed Jun 11 19:59:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.47 java
+Wed Jun 11 19:59:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   6.6  1.0   0:21.48 java
+Wed Jun 11 19:59:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   6.6  1.0   0:21.49 java
+Wed Jun 11 19:59:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.49 java
+Wed Jun 11 19:59:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.50 java
+Wed Jun 11 19:59:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.51 java
+Wed Jun 11 19:59:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.51 java
+Wed Jun 11 19:59:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.52 java
+Wed Jun 11 19:59:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.52 java
+Wed Jun 11 19:59:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.52 java
+Wed Jun 11 19:59:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.54 java
+Wed Jun 11 19:59:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.55 java
+Wed Jun 11 19:59:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.55 java
+Wed Jun 11 19:59:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.55 java
+Wed Jun 11 19:59:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.56 java
+Wed Jun 11 19:59:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.58 java
+Wed Jun 11 19:59:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300196  14204 S   0.0  1.0   0:21.58 java
+Wed Jun 11 19:59:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.58 java
+Wed Jun 11 19:59:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.59 java
+Wed Jun 11 19:59:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.60 java
+Wed Jun 11 19:59:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.61 java
+Wed Jun 11 19:59:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.62 java
+Wed Jun 11 19:59:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.62 java
+Wed Jun 11 19:59:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.62 java
+Wed Jun 11 19:59:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.63 java
+Wed Jun 11 19:59:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.63 java
+Wed Jun 11 19:59:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300164  14204 S   0.0  1.0   0:21.65 java
+Wed Jun 11 19:59:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.65 java
+Wed Jun 11 19:59:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.66 java
+Wed Jun 11 19:59:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.67 java
+Wed Jun 11 19:59:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.68 java
+Wed Jun 11 19:59:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   6.6  1.0   0:21.69 java
+Wed Jun 11 19:59:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.69 java
+Wed Jun 11 19:59:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.69 java
+Wed Jun 11 19:59:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   6.6  1.0   0:21.70 java
+Wed Jun 11 19:59:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.70 java
+Wed Jun 11 19:59:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.72 java
+Wed Jun 11 19:59:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.72 java
+Wed Jun 11 19:59:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.73 java
+Wed Jun 11 19:59:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.73 java
+Wed Jun 11 20:00:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.74 java
+Wed Jun 11 20:00:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.75 java
+Wed Jun 11 20:00:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.75 java
+Wed Jun 11 20:00:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.76 java
+Wed Jun 11 20:00:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.76 java
+Wed Jun 11 20:00:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.77 java
+Wed Jun 11 20:00:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   6.6  1.0   0:21.78 java
+Wed Jun 11 20:00:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.79 java
+Wed Jun 11 20:00:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.79 java
+Wed Jun 11 20:00:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.80 java
+Wed Jun 11 20:00:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.80 java
+Wed Jun 11 20:00:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.80 java
+Wed Jun 11 20:00:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.82 java
+Wed Jun 11 20:00:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.83 java
+Wed Jun 11 20:00:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.83 java
+Wed Jun 11 20:00:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.84 java
+Wed Jun 11 20:00:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.84 java
+Wed Jun 11 20:00:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.86 java
+Wed Jun 11 20:00:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.86 java
+Wed Jun 11 20:00:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.86 java
+Wed Jun 11 20:00:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.87 java
+Wed Jun 11 20:00:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.87 java
+Wed Jun 11 20:00:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   6.6  1.0   0:21.89 java
+Wed Jun 11 20:00:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.90 java
+Wed Jun 11 20:00:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.90 java
+Wed Jun 11 20:00:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.90 java
+Wed Jun 11 20:00:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.91 java
+Wed Jun 11 20:00:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.91 java
+Wed Jun 11 20:00:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.93 java
+Wed Jun 11 20:00:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.93 java
+Wed Jun 11 20:00:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.94 java
+Wed Jun 11 20:00:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.95 java
+Wed Jun 11 20:00:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.95 java
+Wed Jun 11 20:00:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.95 java
+Wed Jun 11 20:00:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.97 java
+Wed Jun 11 20:00:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.97 java
+Wed Jun 11 20:00:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   6.6  1.0   0:21.98 java
+Wed Jun 11 20:00:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.98 java
+Wed Jun 11 20:00:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:21.98 java
+Wed Jun 11 20:00:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.01 java
+Wed Jun 11 20:00:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.01 java
+Wed Jun 11 20:00:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.02 java
+Wed Jun 11 20:00:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.02 java
+Wed Jun 11 20:00:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.03 java
+Wed Jun 11 20:00:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.04 java
+Wed Jun 11 20:00:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.04 java
+Wed Jun 11 20:00:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.05 java
+Wed Jun 11 20:00:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.05 java
+Wed Jun 11 20:00:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300180  14204 S   0.0  1.0   0:22.06 java
+Wed Jun 11 20:00:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   6.6  1.0   0:22.08 java
+Wed Jun 11 20:00:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.08 java
+Wed Jun 11 20:01:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.09 java
+Wed Jun 11 20:01:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.09 java
+Wed Jun 11 20:01:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.09 java
+Wed Jun 11 20:01:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.10 java
+Wed Jun 11 20:01:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.11 java
+Wed Jun 11 20:01:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.12 java
+Wed Jun 11 20:01:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.13 java
+Wed Jun 11 20:01:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.13 java
+Wed Jun 11 20:01:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.13 java
+Wed Jun 11 20:01:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.15 java
+Wed Jun 11 20:01:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.15 java
+Wed Jun 11 20:01:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   6.6  1.0   0:22.16 java
+Wed Jun 11 20:01:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.16 java
+Wed Jun 11 20:01:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.16 java
+Wed Jun 11 20:01:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.17 java
+Wed Jun 11 20:01:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.19 java
+Wed Jun 11 20:01:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.19 java
+Wed Jun 11 20:01:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.20 java
+Wed Jun 11 20:01:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.20 java
+Wed Jun 11 20:01:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.20 java
+Wed Jun 11 20:01:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.22 java
+Wed Jun 11 20:01:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.22 java
+Wed Jun 11 20:01:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.23 java
+Wed Jun 11 20:01:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   6.6  1.0   0:22.24 java
+Wed Jun 11 20:01:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.24 java
+Wed Jun 11 20:01:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   6.6  1.0   0:22.25 java
+Wed Jun 11 20:01:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.26 java
+Wed Jun 11 20:01:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.26 java
+Wed Jun 11 20:01:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.27 java
+Wed Jun 11 20:01:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.27 java
+Wed Jun 11 20:01:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.27 java
+Wed Jun 11 20:01:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.29 java
+Wed Jun 11 20:01:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.30 java
+Wed Jun 11 20:01:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.30 java
+Wed Jun 11 20:01:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.31 java
+Wed Jun 11 20:01:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.31 java
+Wed Jun 11 20:01:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.32 java
+Wed Jun 11 20:01:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.33 java
+Wed Jun 11 20:01:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.33 java
+Wed Jun 11 20:01:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.34 java
+Wed Jun 11 20:01:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.35 java
+Wed Jun 11 20:01:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.36 java
+Wed Jun 11 20:01:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.37 java
+Wed Jun 11 20:01:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.37 java
+Wed Jun 11 20:01:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.38 java
+Wed Jun 11 20:01:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.38 java
+Wed Jun 11 20:01:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.38 java
+Wed Jun 11 20:01:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.40 java
+Wed Jun 11 20:01:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.41 java
+Wed Jun 11 20:01:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.41 java
+Wed Jun 11 20:01:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300052  14204 S   0.0  1.0   0:22.41 java
+Wed Jun 11 20:02:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   6.6  1.0   0:22.43 java
+Wed Jun 11 20:02:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.43 java
+Wed Jun 11 20:02:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.44 java
+Wed Jun 11 20:02:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.44 java
+Wed Jun 11 20:02:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.45 java
+Wed Jun 11 20:02:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   6.6  1.0   0:22.46 java
+Wed Jun 11 20:02:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.47 java
+Wed Jun 11 20:02:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.47 java
+Wed Jun 11 20:02:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.48 java
+Wed Jun 11 20:02:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.48 java
+Wed Jun 11 20:02:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.49 java
+Wed Jun 11 20:02:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.49 java
+Wed Jun 11 20:02:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.50 java
+Wed Jun 11 20:02:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.51 java
+Wed Jun 11 20:02:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.52 java
+Wed Jun 11 20:02:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.52 java
+Wed Jun 11 20:02:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.53 java
+Wed Jun 11 20:02:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.54 java
+Wed Jun 11 20:02:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.55 java
+Wed Jun 11 20:02:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.55 java
+Wed Jun 11 20:02:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.55 java
+Wed Jun 11 20:02:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.56 java
+Wed Jun 11 20:02:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.57 java
+Wed Jun 11 20:02:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.58 java
+Wed Jun 11 20:02:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.58 java
+Wed Jun 11 20:02:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.59 java
+Wed Jun 11 20:02:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.59 java
+Wed Jun 11 20:02:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.60 java
+Wed Jun 11 20:02:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.61 java
+Wed Jun 11 20:02:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.61 java
+Wed Jun 11 20:02:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.62 java
+Wed Jun 11 20:02:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.63 java
+Wed Jun 11 20:02:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.63 java
+Wed Jun 11 20:02:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.65 java
+Wed Jun 11 20:02:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300288  14204 S   0.0  1.0   0:22.65 java
+Wed Jun 11 20:02:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.65 java
+Wed Jun 11 20:02:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.66 java
+Wed Jun 11 20:02:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.66 java
+Wed Jun 11 20:02:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.67 java
+Wed Jun 11 20:02:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.68 java
+Wed Jun 11 20:02:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.69 java
+Wed Jun 11 20:02:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.70 java
+Wed Jun 11 20:02:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.70 java
+Wed Jun 11 20:02:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   6.6  1.0   0:22.71 java
+Wed Jun 11 20:02:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.72 java
+Wed Jun 11 20:02:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.72 java
+Wed Jun 11 20:02:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.72 java
+Wed Jun 11 20:02:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.73 java
+Wed Jun 11 20:02:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.74 java
+Wed Jun 11 20:02:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.75 java
+Wed Jun 11 20:02:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.76 java
+Wed Jun 11 20:03:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.76 java
+Wed Jun 11 20:03:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   6.6  1.0   0:22.77 java
+Wed Jun 11 20:03:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.77 java
+Wed Jun 11 20:03:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.77 java
+Wed Jun 11 20:03:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.79 java
+Wed Jun 11 20:03:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.79 java
+Wed Jun 11 20:03:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.80 java
+Wed Jun 11 20:03:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.81 java
+Wed Jun 11 20:03:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.81 java
+Wed Jun 11 20:03:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.82 java
+Wed Jun 11 20:03:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.83 java
+Wed Jun 11 20:03:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.83 java
+Wed Jun 11 20:03:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.83 java
+Wed Jun 11 20:03:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.84 java
+Wed Jun 11 20:03:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.85 java
+Wed Jun 11 20:03:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.86 java
+Wed Jun 11 20:03:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.87 java
+Wed Jun 11 20:03:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.87 java
+Wed Jun 11 20:03:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.88 java
+Wed Jun 11 20:03:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.88 java
+Wed Jun 11 20:03:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.89 java
+Wed Jun 11 20:03:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300304  14204 S   0.0  1.0   0:22.90 java
+Wed Jun 11 20:03:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300388  14204 S   0.0  1.0   0:22.90 java
+Wed Jun 11 20:03:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300388  14204 S   0.0  1.0   0:22.91 java
+Wed Jun 11 20:03:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300388  14204 S   0.0  1.0   0:22.91 java
+Wed Jun 11 20:03:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300292  14204 S   0.0  1.0   0:22.93 java
+Wed Jun 11 20:03:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300292  14204 S   0.0  1.0   0:22.93 java
+Wed Jun 11 20:03:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300292  14204 S   0.0  1.0   0:22.94 java
+Wed Jun 11 20:03:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300292  14204 S   0.0  1.0   0:22.94 java
+Wed Jun 11 20:03:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300292  14204 S   0.0  1.0   0:22.94 java
+Wed Jun 11 20:03:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:22.96 java
+Wed Jun 11 20:03:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   6.6  1.0   0:22.97 java
+Wed Jun 11 20:03:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   6.6  1.0   0:22.98 java
+Wed Jun 11 20:03:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:22.98 java
+Wed Jun 11 20:03:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:22.98 java
+Wed Jun 11 20:03:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:22.99 java
+Wed Jun 11 20:03:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.00 java
+Wed Jun 11 20:03:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.00 java
+Wed Jun 11 20:03:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.01 java
+Wed Jun 11 20:03:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.01 java
+Wed Jun 11 20:03:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.02 java
+Wed Jun 11 20:03:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.04 java
+Wed Jun 11 20:03:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.04 java
+Wed Jun 11 20:03:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.05 java
+Wed Jun 11 20:03:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.05 java
+Wed Jun 11 20:03:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.05 java
+Wed Jun 11 20:03:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300428  14204 S   0.0  1.0   0:23.07 java
+Wed Jun 11 20:03:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.07 java
+Wed Jun 11 20:03:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.08 java
+Wed Jun 11 20:03:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   6.6  1.0   0:23.09 java
+Wed Jun 11 20:03:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.09 java
+Wed Jun 11 20:03:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.09 java
+Wed Jun 11 20:04:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.11 java
+Wed Jun 11 20:04:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.11 java
+Wed Jun 11 20:04:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.11 java
+Wed Jun 11 20:04:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.12 java
+Wed Jun 11 20:04:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.12 java
+Wed Jun 11 20:04:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.14 java
+Wed Jun 11 20:04:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.15 java
+Wed Jun 11 20:04:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.15 java
+Wed Jun 11 20:04:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.16 java
+Wed Jun 11 20:04:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.16 java
+Wed Jun 11 20:04:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   6.6  1.0   0:23.17 java
+Wed Jun 11 20:04:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.18 java
+Wed Jun 11 20:04:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.18 java
+Wed Jun 11 20:04:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.19 java
+Wed Jun 11 20:04:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   6.6  1.0   0:23.20 java
+Wed Jun 11 20:04:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.20 java
+Wed Jun 11 20:04:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.21 java
+Wed Jun 11 20:04:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.22 java
+Wed Jun 11 20:04:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.22 java
+Wed Jun 11 20:04:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   6.6  1.0   0:23.23 java
+Wed Jun 11 20:04:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.23 java
+Wed Jun 11 20:04:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.24 java
+Wed Jun 11 20:04:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.25 java
+Wed Jun 11 20:04:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.26 java
+Wed Jun 11 20:04:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.26 java
+Wed Jun 11 20:04:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.27 java
+Wed Jun 11 20:04:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.27 java
+Wed Jun 11 20:04:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.28 java
+Wed Jun 11 20:04:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.29 java
+Wed Jun 11 20:04:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.29 java
+Wed Jun 11 20:04:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.30 java
+Wed Jun 11 20:04:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.31 java
+Wed Jun 11 20:04:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.32 java
+Wed Jun 11 20:04:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.32 java
+Wed Jun 11 20:04:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.33 java
+Wed Jun 11 20:04:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.33 java
+Wed Jun 11 20:04:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300528  14204 S   0.0  1.0   0:23.34 java
+Wed Jun 11 20:04:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.34 java
+Wed Jun 11 20:04:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.36 java
+Wed Jun 11 20:04:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   6.6  1.0   0:23.37 java
+Wed Jun 11 20:04:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.37 java
+Wed Jun 11 20:04:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.37 java
+Wed Jun 11 20:04:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   6.6  1.0   0:23.39 java
+Wed Jun 11 20:04:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.39 java
+Wed Jun 11 20:04:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.40 java
+Wed Jun 11 20:04:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.40 java
+Wed Jun 11 20:04:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.40 java
+Wed Jun 11 20:04:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.41 java
+Wed Jun 11 20:04:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.43 java
+Wed Jun 11 20:04:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.43 java
+Wed Jun 11 20:04:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.43 java
+Wed Jun 11 20:05:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.44 java
+Wed Jun 11 20:05:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.44 java
+Wed Jun 11 20:05:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.45 java
+Wed Jun 11 20:05:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.46 java
+Wed Jun 11 20:05:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.47 java
+Wed Jun 11 20:05:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.48 java
+Wed Jun 11 20:05:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.48 java
+Wed Jun 11 20:05:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300368  14204 S   0.0  1.0   0:23.48 java
+Wed Jun 11 20:05:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.50 java
+Wed Jun 11 20:05:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.50 java
+Wed Jun 11 20:05:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.51 java
+Wed Jun 11 20:05:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.51 java
+Wed Jun 11 20:05:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.51 java
+Wed Jun 11 20:05:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   6.6  1.0   0:23.53 java
+Wed Jun 11 20:05:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.54 java
+Wed Jun 11 20:05:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.54 java
+Wed Jun 11 20:05:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300436  14204 S   0.0  1.0   0:23.54 java
+Wed Jun 11 20:05:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.55 java
+Wed Jun 11 20:05:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.55 java
+Wed Jun 11 20:05:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.57 java
+Wed Jun 11 20:05:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.57 java
+Wed Jun 11 20:05:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.58 java
+Wed Jun 11 20:05:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   6.6  1.0   0:23.59 java
+Wed Jun 11 20:05:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.59 java
+Wed Jun 11 20:05:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   6.6  1.0   0:23.60 java
+Wed Jun 11 20:05:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300516  14204 S   0.0  1.0   0:23.61 java
+Wed Jun 11 20:05:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.61 java
+Wed Jun 11 20:05:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.62 java
+Wed Jun 11 20:05:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.62 java
+Wed Jun 11 20:05:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.62 java
+Wed Jun 11 20:05:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.64 java
+Wed Jun 11 20:05:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.65 java
+Wed Jun 11 20:05:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.65 java
+Wed Jun 11 20:05:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   6.6  1.0   0:23.66 java
+Wed Jun 11 20:05:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.66 java
+Wed Jun 11 20:05:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.67 java
+Wed Jun 11 20:05:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.68 java
+Wed Jun 11 20:05:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300592  14204 S   0.0  1.0   0:23.68 java
+Wed Jun 11 20:05:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.69 java
+Wed Jun 11 20:05:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.69 java
+Wed Jun 11 20:05:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.71 java
+Wed Jun 11 20:05:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   6.6  1.0   0:23.72 java
+Wed Jun 11 20:05:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.72 java
+Wed Jun 11 20:05:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.72 java
+Wed Jun 11 20:05:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.73 java
+Wed Jun 11 20:05:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.73 java
+Wed Jun 11 20:05:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.74 java
+Wed Jun 11 20:05:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.75 java
+Wed Jun 11 20:05:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.76 java
+Wed Jun 11 20:05:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300824  14204 S   0.0  1.0   0:23.76 java
+Wed Jun 11 20:05:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.77 java
+Wed Jun 11 20:06:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.78 java
+Wed Jun 11 20:06:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.79 java
+Wed Jun 11 20:06:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.79 java
+Wed Jun 11 20:06:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.79 java
+Wed Jun 11 20:06:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.80 java
+Wed Jun 11 20:06:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.81 java
+Wed Jun 11 20:06:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.82 java
+Wed Jun 11 20:06:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   6.6  1.0   0:23.83 java
+Wed Jun 11 20:06:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300792  14204 S   0.0  1.0   0:23.83 java
+Wed Jun 11 20:06:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.83 java
+Wed Jun 11 20:06:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.85 java
+Wed Jun 11 20:06:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.85 java
+Wed Jun 11 20:06:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.85 java
+Wed Jun 11 20:06:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.86 java
+Wed Jun 11 20:06:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.87 java
+Wed Jun 11 20:06:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   6.6  1.0   0:23.88 java
+Wed Jun 11 20:06:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300928  14204 S   0.0  1.0   0:23.89 java
+Wed Jun 11 20:06:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.89 java
+Wed Jun 11 20:06:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.90 java
+Wed Jun 11 20:06:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.90 java
+Wed Jun 11 20:06:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.90 java
+Wed Jun 11 20:06:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.92 java
+Wed Jun 11 20:06:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.92 java
+Wed Jun 11 20:06:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.93 java
+Wed Jun 11 20:06:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.93 java
+Wed Jun 11 20:06:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.94 java
+Wed Jun 11 20:06:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.95 java
+Wed Jun 11 20:06:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.96 java
+Wed Jun 11 20:06:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.96 java
+Wed Jun 11 20:06:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   6.6  1.0   0:23.97 java
+Wed Jun 11 20:06:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.97 java
+Wed Jun 11 20:06:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.98 java
+Wed Jun 11 20:06:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:23.99 java
+Wed Jun 11 20:06:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.00 java
+Wed Jun 11 20:06:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.00 java
+Wed Jun 11 20:06:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.01 java
+Wed Jun 11 20:06:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.01 java
+Wed Jun 11 20:06:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.02 java
+Wed Jun 11 20:06:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.03 java
+Wed Jun 11 20:06:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.03 java
+Wed Jun 11 20:06:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.04 java
+Wed Jun 11 20:06:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.05 java
+Wed Jun 11 20:06:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.06 java
+Wed Jun 11 20:06:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.07 java
+Wed Jun 11 20:06:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.07 java
+Wed Jun 11 20:06:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.07 java
+Wed Jun 11 20:06:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.08 java
+Wed Jun 11 20:06:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   6.6  1.0   0:24.09 java
+Wed Jun 11 20:06:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   6.6  1.0   0:24.10 java
+Wed Jun 11 20:06:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.10 java
+Wed Jun 11 20:06:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.11 java
+Wed Jun 11 20:06:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.11 java
+Wed Jun 11 20:07:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.12 java
+Wed Jun 11 20:07:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.13 java
+Wed Jun 11 20:07:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.13 java
+Wed Jun 11 20:07:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301012  14204 S   0.0  1.0   0:24.14 java
+Wed Jun 11 20:07:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.14 java
+Wed Jun 11 20:07:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.15 java
+Wed Jun 11 20:07:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   6.6  1.0   0:24.17 java
+Wed Jun 11 20:07:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.17 java
+Wed Jun 11 20:07:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.18 java
+Wed Jun 11 20:07:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.18 java
+Wed Jun 11 20:07:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301096  14204 S   0.0  1.0   0:24.18 java
+Wed Jun 11 20:07:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301064  14204 S   0.0  1.0   0:24.19 java
+Wed Jun 11 20:07:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301064  14204 S   0.0  1.0   0:24.20 java
+Wed Jun 11 20:07:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301064  14204 S   0.0  1.0   0:24.21 java
+Wed Jun 11 20:07:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301164  14204 S   0.0  1.0   0:24.23 java
+Wed Jun 11 20:07:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301164  14204 S   0.0  1.0   0:24.23 java
+Wed Jun 11 20:07:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.25 java
+Wed Jun 11 20:07:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.25 java
+Wed Jun 11 20:07:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.26 java
+Wed Jun 11 20:07:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.26 java
+Wed Jun 11 20:07:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.26 java
+Wed Jun 11 20:07:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.27 java
+Wed Jun 11 20:07:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.29 java
+Wed Jun 11 20:07:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.29 java
+Wed Jun 11 20:07:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.29 java
+Wed Jun 11 20:07:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.30 java
+Wed Jun 11 20:07:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.30 java
+Wed Jun 11 20:07:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.32 java
+Wed Jun 11 20:07:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.32 java
+Wed Jun 11 20:07:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.32 java
+Wed Jun 11 20:07:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.33 java
+Wed Jun 11 20:07:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.34 java
+Wed Jun 11 20:07:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.34 java
+Wed Jun 11 20:07:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   6.6  1.0   0:24.36 java
+Wed Jun 11 20:07:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.36 java
+Wed Jun 11 20:07:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.36 java
+Wed Jun 11 20:07:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.37 java
+Wed Jun 11 20:07:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.37 java
+Wed Jun 11 20:07:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.39 java
+Wed Jun 11 20:07:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.40 java
+Wed Jun 11 20:07:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.40 java
+Wed Jun 11 20:07:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.41 java
+Wed Jun 11 20:07:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.41 java
+Wed Jun 11 20:07:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.43 java
+Wed Jun 11 20:07:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.43 java
+Wed Jun 11 20:07:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.43 java
+Wed Jun 11 20:07:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.44 java
+Wed Jun 11 20:07:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.44 java
+Wed Jun 11 20:07:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.46 java
+Wed Jun 11 20:07:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.46 java
+Wed Jun 11 20:07:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.47 java
+Wed Jun 11 20:08:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.47 java
+Wed Jun 11 20:08:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.48 java
+Wed Jun 11 20:08:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.48 java
+Wed Jun 11 20:08:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.49 java
+Wed Jun 11 20:08:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.50 java
+Wed Jun 11 20:08:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.51 java
+Wed Jun 11 20:08:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.51 java
+Wed Jun 11 20:08:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300332  14204 S   0.0  1.0   0:24.52 java
+Wed Jun 11 20:08:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.53 java
+Wed Jun 11 20:08:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.54 java
+Wed Jun 11 20:08:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.54 java
+Wed Jun 11 20:08:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.54 java
+Wed Jun 11 20:08:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.55 java
+Wed Jun 11 20:08:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.56 java
+Wed Jun 11 20:08:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.57 java
+Wed Jun 11 20:08:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.58 java
+Wed Jun 11 20:08:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 300852  14204 S   0.0  1.0   0:24.58 java
+Wed Jun 11 20:08:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   6.6  1.0   0:24.59 java
+Wed Jun 11 20:08:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.60 java
+Wed Jun 11 20:08:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.60 java
+Wed Jun 11 20:08:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   6.6  1.0   0:24.61 java
+Wed Jun 11 20:08:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.61 java
+Wed Jun 11 20:08:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   6.6  1.0   0:24.62 java
+Wed Jun 11 20:08:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.63 java
+Wed Jun 11 20:08:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.64 java
+Wed Jun 11 20:08:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   6.6  1.0   0:24.65 java
+Wed Jun 11 20:08:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.65 java
+Wed Jun 11 20:08:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.65 java
+Wed Jun 11 20:08:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.66 java
+Wed Jun 11 20:08:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.67 java
+Wed Jun 11 20:08:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.68 java
+Wed Jun 11 20:08:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.69 java
+Wed Jun 11 20:08:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.69 java
+Wed Jun 11 20:08:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.69 java
+Wed Jun 11 20:08:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   6.6  1.0   0:24.71 java
+Wed Jun 11 20:08:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.71 java
+Wed Jun 11 20:08:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.72 java
+Wed Jun 11 20:08:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.72 java
+Wed Jun 11 20:08:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.73 java
+Wed Jun 11 20:08:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.73 java
+Wed Jun 11 20:08:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.75 java
+Wed Jun 11 20:08:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.75 java
+Wed Jun 11 20:08:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.76 java
+Wed Jun 11 20:08:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.76 java
+Wed Jun 11 20:08:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.77 java
+Wed Jun 11 20:08:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.78 java
+Wed Jun 11 20:08:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 301112  14204 S   0.0  1.0   0:24.78 java
+Wed Jun 11 20:08:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 302304  14204 S   6.6  1.0   0:24.92 java
+Wed Jun 11 20:08:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 302824  14204 S  19.9  1.0   0:25.06 java
+Wed Jun 11 20:08:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 303300  14204 S   6.6  1.0   0:25.18 java
+Wed Jun 11 20:08:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 304124  14304 S  26.5  1.0   0:25.54 java
+Wed Jun 11 20:09:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 306036  14328 S  72.9  1.0   0:25.90 java
+Wed Jun 11 20:09:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.346g 307492  14328 S  53.1  1.0   0:26.40 java
+Wed Jun 11 20:09:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.350g 310176  14360 S 411.1  1.0   0:28.32 java
+Wed Jun 11 20:09:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.351g 315032  14368 S  79.6  1.0   0:31.42 java
+Wed Jun 11 20:09:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.351g 317396  14408 S 403.8  1.0   0:35.82 java
+Wed Jun 11 20:09:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 322152  14408 S 654.7  1.0   0:40.75 java
+Wed Jun 11 20:09:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 349516  14420 S 497.3  1.1   0:46.20 java
+Wed Jun 11 20:09:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 375240  14420 S 443.4  1.2   0:53.26 java
+Wed Jun 11 20:09:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 387908  14420 S 311.2  1.3   0:58.41 java
+Wed Jun 11 20:09:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 398116  14424 S 290.8  1.3   1:02.03 java
+Wed Jun 11 20:09:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 484244  14428 S 251.5  1.6   1:05.99 java
+Wed Jun 11 20:09:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 509056  14428 S 589.5  1.7   1:10.81 java
+Wed Jun 11 20:09:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 506172  14428 S 337.2  1.6   1:15.93 java
+Wed Jun 11 20:09:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 522700  14428 S 430.6  1.7   1:22.11 java
+Wed Jun 11 20:09:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 532404  14428 S 423.6  1.7   1:27.42 java
+Wed Jun 11 20:09:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 541160  14428 S 549.4  1.8   1:32.06 java
+Wed Jun 11 20:09:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 544196  14428 S 265.0  1.8   1:37.14 java
+Wed Jun 11 20:09:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.361g 547368  14428 S 490.2  1.8   1:41.31 java
+Wed Jun 11 20:09:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 547368  14428 S 258.5  1.8   1:45.83 java
+Wed Jun 11 20:09:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 551568  14428 S 212.1  1.8   1:49.63 java
+Wed Jun 11 20:09:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 554808  14428 S 245.4  1.8   1:53.65 java
+Wed Jun 11 20:09:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 555468  14428 S 296.8  1.8   1:57.53 java
+Wed Jun 11 20:09:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 555512  14428 S 284.9  1.8   2:01.30 java
+Wed Jun 11 20:09:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 558244  14428 S 172.3  1.8   2:04.44 java
+Wed Jun 11 20:09:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 561084  14428 S 384.0  1.8   2:08.32 java
+Wed Jun 11 20:09:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 561084  14428 S 450.3  1.8   2:12.33 java
+Wed Jun 11 20:09:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 561804  14428 S 285.0  1.8   2:15.67 java
+Wed Jun 11 20:09:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 561580  14428 S 410.6  1.8   2:20.08 java
+Wed Jun 11 20:09:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 561928  14428 S 410.7  1.8   2:24.17 java
+Wed Jun 11 20:09:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 553728  14428 S 218.6  1.8   2:29.15 java
+Wed Jun 11 20:09:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 553728  14428 S 318.1  1.8   2:32.58 java
+Wed Jun 11 20:09:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 553892  14428 S 357.8  1.8   2:37.17 java
+Wed Jun 11 20:09:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 542680  14428 S 231.9  1.8   2:40.96 java
+Wed Jun 11 20:09:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 543548  14428 S 278.3  1.8   2:45.19 java
+Wed Jun 11 20:09:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 533340  14428 S 436.4  1.7   2:49.87 java
+Wed Jun 11 20:09:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 525256  14428 S 589.5  1.7   2:55.26 java
+Wed Jun 11 20:09:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 525064  14428 S 397.6  1.7   3:00.50 java
+Wed Jun 11 20:09:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 517948  14428 S 185.7  1.7   3:03.90 java
+Wed Jun 11 20:09:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 518032  14428 S 483.7  1.7   3:08.73 java
+Wed Jun 11 20:09:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 511160  14428 S 304.7  1.7   3:12.67 java
+Wed Jun 11 20:09:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 505092  14428 S 535.1  1.6   3:17.63 java
+Wed Jun 11 20:09:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 505144  14428 S 609.5  1.6   3:23.20 java
+Wed Jun 11 20:09:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 499332  14428 S 403.8  1.6   3:29.05 java
+Wed Jun 11 20:09:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 491516  14428 S 509.2  1.6   3:35.22 java
+Wed Jun 11 20:09:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 491024  14428 S 509.9  1.6   3:40.79 java
+Wed Jun 11 20:09:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 485744  14428 S 609.0  1.6   3:47.60 java
+Wed Jun 11 20:09:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 486900  14428 S 649.1  1.6   3:54.56 java
+Wed Jun 11 20:09:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 491660  14428 S 615.7  1.6   4:01.63 java
+Wed Jun 11 20:09:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 512380  14428 S 404.1  1.7   4:08.41 java
+Wed Jun 11 20:09:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 523276  14428 S 622.3  1.7   4:15.35 java
+Wed Jun 11 20:09:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 554316  14428 S 668.5  1.8   4:22.77 java
+Wed Jun 11 20:10:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 582928  14428 S 635.8  1.9   4:30.29 java
+Wed Jun 11 20:10:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 601824  14428 S 635.8  2.0   4:37.01 java
+Wed Jun 11 20:10:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 642132  14428 S 609.1  2.1   4:44.21 java
+Wed Jun 11 20:10:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 652984  14428 S 654.6  2.1   4:51.87 java
+Wed Jun 11 20:10:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 702976  14428 S 675.4  2.3   4:59.56 java
+Wed Jun 11 20:10:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 718560  14428 S 653.8  2.3   5:07.09 java
+Wed Jun 11 20:10:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 770784  14428 S 628.8  2.5   5:14.84 java
+Wed Jun 11 20:10:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 785292  14428 S 668.6  2.5   5:22.46 java
+Wed Jun 11 20:10:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 849644  14428 S 661.9  2.8   5:30.14 java
+Wed Jun 11 20:10:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 866040  14428 S 630.8  2.8   5:37.65 java
+Wed Jun 11 20:10:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 866568  14428 S 648.0  2.8   5:45.23 java
+Wed Jun 11 20:10:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 877884  14428 S 662.2  2.8   5:52.64 java
+Wed Jun 11 20:10:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 877884  14428 S 477.4  2.8   5:59.61 java
+Wed Jun 11 20:10:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 887228  14436 S 602.6  2.9   6:06.97 java
+Wed Jun 11 20:10:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 887228  14436 S 635.2  2.9   6:13.74 java
+Wed Jun 11 20:10:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 888016  14436 S 595.9  2.9   6:21.20 java
+Wed Jun 11 20:10:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 881888  14436 S 648.0  2.9   6:28.85 java
+Wed Jun 11 20:10:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 882800  14436 S 617.2  2.9   6:36.67 java
+Wed Jun 11 20:10:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 882468  14436 S 635.3  2.9   6:44.22 java
+Wed Jun 11 20:10:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 889924  14436 S 642.1  2.9   6:51.81 java
+Wed Jun 11 20:10:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 890540  14436 S 635.6  2.9   6:59.45 java
+Wed Jun 11 20:10:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 890344  14436 S 624.8  2.9   7:07.07 java
+Wed Jun 11 20:10:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 893348  14436 S 652.6  2.9   7:14.77 java
+Wed Jun 11 20:10:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 892736  14436 S 607.2  2.9   7:22.17 java
+Wed Jun 11 20:10:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 895604  14436 S 515.0  2.9   7:29.70 java
+Wed Jun 11 20:10:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 903080  14436 S 641.8  2.9   7:37.32 java
+Wed Jun 11 20:10:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 911816  14436 S 603.7  3.0   7:44.78 java
+Wed Jun 11 20:10:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 932820  14436 S 443.4  3.0   7:51.83 java
+Wed Jun 11 20:10:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 932820  14436 S 503.4  3.0   7:56.47 java
+Wed Jun 11 20:10:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.362g 979.9m  14440 S 577.1  3.3   8:03.21 java
+Wed Jun 11 20:10:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 980.9m  14440 S 576.3  3.3   8:11.23 java
+Wed Jun 11 20:10:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 998.4m  14440 S 622.5  3.3   8:18.64 java
+Wed Jun 11 20:10:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 0.986g  14440 S 468.7  3.4   8:25.74 java
+Wed Jun 11 20:10:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 0.986g  14440 S 575.8  3.4   8:33.19 java
+Wed Jun 11 20:10:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.022g  14440 S 615.6  3.5   8:40.72 java
+Wed Jun 11 20:10:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.055g  14440 S 615.0  3.6   8:48.27 java
+Wed Jun 11 20:10:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.083g  14440 S 635.6  3.7   8:55.82 java
+Wed Jun 11 20:10:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.083g  14440 S 609.0  3.7   9:03.35 java
+Wed Jun 11 20:10:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.105g  14440 S 606.7  3.8   9:10.98 java
+Wed Jun 11 20:10:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.155g  14440 S 587.6  3.9   9:18.51 java
+Wed Jun 11 20:10:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.157g  14440 S 619.6  3.9   9:26.15 java
+Wed Jun 11 20:10:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.157g  14440 S 589.1  3.9   9:33.66 java
+Wed Jun 11 20:10:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.209g  14440 S 595.2  4.1   9:41.29 java
+Wed Jun 11 20:10:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.234g  14440 S 616.1  4.2   9:48.94 java
+Wed Jun 11 20:10:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.285g  14440 S 635.8  4.4   9:56.57 java
+Wed Jun 11 20:10:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.285g  14440 S 602.1  4.4  10:04.16 java
+Wed Jun 11 20:10:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.319g  14440 S 596.0  4.5  10:11.71 java
+Wed Jun 11 20:10:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.319g  14440 S 562.5  4.5  10:18.90 java
+Wed Jun 11 20:10:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.377g  14440 S 602.7  4.7  10:26.24 java
+Wed Jun 11 20:10:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.412g  14440 S 588.6  4.8  10:33.87 java
+Wed Jun 11 20:10:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.412g  14440 S 589.2  4.8  10:41.34 java
+Wed Jun 11 20:11:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.466g  14440 S 609.0  5.0  10:48.66 java
+Wed Jun 11 20:11:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.466g  14440 S 622.3  5.0  10:56.04 java
+Wed Jun 11 20:11:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.470g  14440 S 635.2  5.0  11:03.55 java
+Wed Jun 11 20:11:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.471g  14440 S 562.2  5.0  11:10.57 java
+Wed Jun 11 20:11:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.598g  14440 S 788.6  5.4  11:19.22 java
+Wed Jun 11 20:11:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.602g  14440 S 608.6  5.5  11:26.64 java
+Wed Jun 11 20:11:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.602g  14440 S 688.6  5.5  11:33.90 java
+Wed Jun 11 20:11:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.602g  14440 S 602.8  5.5  11:41.29 java
+Wed Jun 11 20:11:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.645g  14440 S 635.9  5.6  11:48.43 java
+Wed Jun 11 20:11:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.645g  14440 S 668.7  5.6  11:55.91 java
+Wed Jun 11 20:11:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.645g  14440 S 672.9  5.6  12:03.46 java
+Wed Jun 11 20:11:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.645g  14440 S 622.6  5.6  12:10.93 java
+Wed Jun 11 20:11:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.690g  14440 S 675.2  5.7  12:18.34 java
+Wed Jun 11 20:11:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.751g  14440 S 655.4  6.0  12:25.89 java
+Wed Jun 11 20:11:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.751g  14440 S 628.3  6.0  12:33.32 java
+Wed Jun 11 20:11:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.751g  14440 S 615.0  6.0  12:40.92 java
+Wed Jun 11 20:11:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.751g  14440 S 582.3  6.0  12:48.49 java
+Wed Jun 11 20:11:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.875g  14440 S 575.7  6.4  12:56.22 java
+Wed Jun 11 20:11:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.875g  14440 S 535.3  6.4  13:03.79 java
+Wed Jun 11 20:11:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.876g  14440 S 648.0  6.4  13:11.50 java
+Wed Jun 11 20:11:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 1.876g  14440 S 648.9  6.4  13:19.24 java
+Wed Jun 11 20:11:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 2.012g  14440 S 675.1  6.8  13:27.06 java
+Wed Jun 11 20:11:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 2.012g  14440 S 641.9  6.8  13:34.62 java
+Wed Jun 11 20:11:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.365g 2.020g  14440 S 661.2  6.9  13:42.47 java
+Wed Jun 11 20:11:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.020g  14440 S 656.6  6.9  13:50.19 java
+Wed Jun 11 20:11:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.151g  14440 S 649.2  7.3  13:58.03 java
+Wed Jun 11 20:11:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.151g  14440 S 607.8  7.3  14:05.60 java
+Wed Jun 11 20:11:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.157g  14440 S 716.1  7.3  14:13.24 java
+Wed Jun 11 20:11:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.157g  14440 S 648.8  7.3  14:20.86 java
+Wed Jun 11 20:11:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.157g  14440 S 675.1  7.3  14:28.42 java
+Wed Jun 11 20:11:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.287g  14440 S 656.0  7.8  14:36.20 java
+Wed Jun 11 20:11:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.287g  14440 S 648.0  7.8  14:43.77 java
+Wed Jun 11 20:11:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.287g  14440 S 622.2  7.8  14:51.31 java
+Wed Jun 11 20:11:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.337g  14440 S 648.7  8.0  14:59.00 java
+Wed Jun 11 20:11:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.337g  14440 S 635.0  8.0  15:06.48 java
+Wed Jun 11 20:11:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.412g  14440 S 648.9  8.2  15:14.12 java
+Wed Jun 11 20:11:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.412g  14440 S 667.6  8.2  15:21.81 java
+Wed Jun 11 20:11:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.412g  14440 S 675.6  8.2  15:29.43 java
+Wed Jun 11 20:11:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.456g  14440 S 688.4  8.4  15:37.26 java
+Wed Jun 11 20:11:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.456g  14440 S 655.7  8.4  15:44.88 java
+Wed Jun 11 20:11:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.456g  14440 S 590.2  8.4  15:52.30 java
+Wed Jun 11 20:11:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.498g  14440 S 676.6  8.5  15:59.96 java
+Wed Jun 11 20:11:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.515g  14440 S 642.4  8.6  16:07.61 java
+Wed Jun 11 20:11:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.515g  14440 S 652.5  8.6  16:15.19 java
+Wed Jun 11 20:11:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.515g  14440 S 622.2  8.6  16:22.72 java
+Wed Jun 11 20:11:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.535g  14440 S 655.3  8.6  16:30.47 java
+Wed Jun 11 20:11:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.535g  14440 S 654.3  8.6  16:38.08 java
+Wed Jun 11 20:11:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.535g  14440 S 668.4  8.6  16:45.66 java
+Wed Jun 11 20:11:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.625g  14440 S 682.0  8.9  16:53.28 java
+Wed Jun 11 20:11:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.625g  14440 S 596.0  8.9  17:00.82 java
+Wed Jun 11 20:12:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.625g  14440 S 629.0  8.9  17:07.88 java
+Wed Jun 11 20:12:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.625g  14440 S 635.8  8.9  17:14.86 java
+Wed Jun 11 20:12:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.644g  14440 S 694.9  9.0  17:22.30 java
+Wed Jun 11 20:12:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.658g  14440 S 788.2  9.0  17:31.39 java
+Wed Jun 11 20:12:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 681.7  9.2  17:39.51 java
+Wed Jun 11 20:12:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 529.6  9.2  17:46.54 java
+Wed Jun 11 20:12:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 614.7  9.2  17:52.87 java
+Wed Jun 11 20:12:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 602.6  9.2  17:59.68 java
+Wed Jun 11 20:12:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 628.3  9.2  18:07.22 java
+Wed Jun 11 20:12:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 654.7  9.2  18:14.83 java
+Wed Jun 11 20:12:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 642.2  9.2  18:22.28 java
+Wed Jun 11 20:12:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 629.0  9.2  18:29.93 java
+Wed Jun 11 20:12:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 608.6  9.2  18:37.47 java
+Wed Jun 11 20:12:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 654.6  9.2  18:45.13 java
+Wed Jun 11 20:12:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 674.6  9.2  18:52.88 java
+Wed Jun 11 20:12:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.711g  14440 S 648.8  9.2  19:00.60 java
+Wed Jun 11 20:12:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 629.5  9.5  19:08.38 java
+Wed Jun 11 20:12:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 668.7  9.5  19:16.01 java
+Wed Jun 11 20:12:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 659.6  9.5  19:23.62 java
+Wed Jun 11 20:12:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 655.4  9.5  19:31.30 java
+Wed Jun 11 20:12:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 655.5  9.5  19:39.04 java
+Wed Jun 11 20:12:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 621.6  9.5  19:46.72 java
+Wed Jun 11 20:12:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 661.2  9.5  19:54.35 java
+Wed Jun 11 20:12:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 668.9  9.5  20:02.05 java
+Wed Jun 11 20:12:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.804g  14440 S 648.6  9.5  20:09.64 java
+Wed Jun 11 20:12:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.919g  14440 S 396.8  9.9  20:16.81 java
+Wed Jun 11 20:12:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.919g  14440 S 675.4  9.9  20:24.55 java
+Wed Jun 11 20:12:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 668.8  9.9  20:32.29 java
+Wed Jun 11 20:12:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 674.4  9.9  20:40.09 java
+Wed Jun 11 20:12:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 655.3  9.9  20:47.91 java
+Wed Jun 11 20:12:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 586.7  9.9  20:55.53 java
+Wed Jun 11 20:12:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 661.7  9.9  21:03.19 java
+Wed Jun 11 20:12:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 2.920g  14440 S 695.2  9.9  21:10.96 java
+Wed Jun 11 20:12:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.053g  14440 S 602.5 10.4  21:18.72 java
+Wed Jun 11 20:12:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.053g  14440 S 661.4 10.4  21:26.40 java
+Wed Jun 11 20:12:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.053g  14440 S 661.4 10.4  21:33.94 java
+Wed Jun 11 20:12:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.053g  14440 S 681.7 10.4  21:41.70 java
+Wed Jun 11 20:12:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.053g  14440 S 668.3 10.4  21:49.36 java
+Wed Jun 11 20:12:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.069g  14440 S 655.6 10.4  21:57.13 java
+Wed Jun 11 20:12:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.069g  14440 S 609.2 10.4  22:04.64 java
+Wed Jun 11 20:12:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.069g  14440 S 681.6 10.4  22:12.22 java
+Wed Jun 11 20:12:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.069g  14440 S 642.0 10.4  22:19.85 java
+Wed Jun 11 20:12:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.260g  14440 S 748.1 11.1  22:27.46 java
+Wed Jun 11 20:12:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.265g  14440 S 615.7 11.1  22:34.28 java
+Wed Jun 11 20:12:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.268g  14440 S 655.3 11.1  22:41.49 java
+Wed Jun 11 20:12:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.268g  14440 S 624.4 11.1  22:48.93 java
+Wed Jun 11 20:12:54 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 655.6 11.1  22:56.53 java
+Wed Jun 11 20:12:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 655.3 11.1  23:04.05 java
+Wed Jun 11 20:12:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 542.8 11.1  23:11.71 java
+Wed Jun 11 20:12:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 648.6 11.1  23:19.27 java
+Wed Jun 11 20:12:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 649.0 11.1  23:26.92 java
+Wed Jun 11 20:13:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 635.2 11.1  23:34.49 java
+Wed Jun 11 20:13:01 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.266g  14440 S 662.2 11.1  23:42.03 java
+Wed Jun 11 20:13:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 661.3 11.9  23:49.64 java
+Wed Jun 11 20:13:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 681.6 11.9  23:57.39 java
+Wed Jun 11 20:13:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 666.1 11.9  24:04.98 java
+Wed Jun 11 20:13:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 681.6 11.9  24:12.64 java
+Wed Jun 11 20:13:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 635.5 11.9  24:20.45 java
+Wed Jun 11 20:13:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 682.1 11.9  24:28.14 java
+Wed Jun 11 20:13:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 668.5 11.9  24:36.06 java
+Wed Jun 11 20:13:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 635.8 11.9  24:43.87 java
+Wed Jun 11 20:13:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 616.2 11.9  24:51.57 java
+Wed Jun 11 20:13:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 668.6 11.9  24:59.33 java
+Wed Jun 11 20:13:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.493g  14440 S 675.7 11.9  25:07.08 java
+Wed Jun 11 20:13:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 675.0 12.8  25:15.14 java
+Wed Jun 11 20:13:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 675.5 12.8  25:22.90 java
+Wed Jun 11 20:13:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 622.1 12.8  25:30.55 java
+Wed Jun 11 20:13:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 640.1 12.8  25:38.19 java
+Wed Jun 11 20:13:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 661.4 12.8  25:45.80 java
+Wed Jun 11 20:13:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.752g  14440 S 582.6 12.8  25:53.29 java
+Wed Jun 11 20:13:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.763g  14440 S 689.5 12.8  26:01.23 java
+Wed Jun 11 20:13:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.763g  14440 S 654.6 12.8  26:08.85 java
+Wed Jun 11 20:13:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.763g  14440 S 656.1 12.8  26:16.50 java
+Wed Jun 11 20:13:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.763g  14440 S 650.7 12.8  26:24.16 java
+Wed Jun 11 20:13:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.763g  14440 S 655.3 12.8  26:31.81 java
+Wed Jun 11 20:13:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 3.951g  14440 S 734.2 13.4  26:39.58 java
+Wed Jun 11 20:13:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 615.4 13.7  26:47.34 java
+Wed Jun 11 20:13:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 588.9 13.7  26:54.75 java
+Wed Jun 11 20:13:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 648.8 13.7  27:02.12 java
+Wed Jun 11 20:13:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 662.0 13.7  27:09.62 java
+Wed Jun 11 20:13:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 666.9 13.7  27:17.35 java
+Wed Jun 11 20:13:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.032g  14440 S 648.8 13.7  27:24.95 java
+Wed Jun 11 20:13:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.053g  14440 S 654.6 13.8  27:32.79 java
+Wed Jun 11 20:13:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.053g  14440 S 656.3 13.8  27:40.47 java
+Wed Jun 11 20:13:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.053g  14440 S 595.7 13.8  27:48.06 java
+Wed Jun 11 20:13:40 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.053g  14440 S 648.9 13.8  27:55.67 java
+Wed Jun 11 20:13:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.053g  14440 S 659.6 13.8  28:03.43 java
+Wed Jun 11 20:13:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.054g  14440 S 668.4 13.8  28:11.03 java
+Wed Jun 11 20:13:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.169g  14440 S 800.0 14.2  28:18.81 java
+Wed Jun 11 20:13:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 648.3 14.8  28:26.56 java
+Wed Jun 11 20:13:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 622.2 14.8  28:34.10 java
+Wed Jun 11 20:13:47 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 620.7 14.8  28:41.40 java
+Wed Jun 11 20:13:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 595.6 14.8  28:48.80 java
+Wed Jun 11 20:13:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 542.3 14.8  28:56.16 java
+Wed Jun 11 20:13:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 642.2 14.8  29:03.29 java
+Wed Jun 11 20:13:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.338g  14440 S 648.3 14.8  29:10.75 java
+Wed Jun 11 20:13:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 654.6 14.9  29:18.48 java
+Wed Jun 11 20:13:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 622.6 14.9  29:25.88 java
+Wed Jun 11 20:13:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 463.6 14.9  29:31.88 java
+Wed Jun 11 20:13:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 536.5 14.9  29:38.06 java
+Wed Jun 11 20:13:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 410.7 14.9  29:44.31 java
+Wed Jun 11 20:13:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 628.6 14.9  29:51.30 java
+Wed Jun 11 20:14:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 569.2 14.9  29:58.83 java
+Wed Jun 11 20:14:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.384g  14440 S 629.4 14.9  30:06.14 java
+Wed Jun 11 20:14:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 622.2 15.9  30:13.96 java
+Wed Jun 11 20:14:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 635.9 15.9  30:21.33 java
+Wed Jun 11 20:14:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 642.2 15.9  30:28.54 java
+Wed Jun 11 20:14:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 614.8 15.9  30:35.79 java
+Wed Jun 11 20:14:08 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 642.1 15.9  30:43.32 java
+Wed Jun 11 20:14:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 669.1 15.9  30:50.78 java
+Wed Jun 11 20:14:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 642.5 15.9  30:58.22 java
+Wed Jun 11 20:14:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.672g  14440 S 591.2 15.9  31:05.46 java
+Wed Jun 11 20:14:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 621.2 16.0  31:13.44 java
+Wed Jun 11 20:14:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 659.2 16.0  31:21.04 java
+Wed Jun 11 20:14:15 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 609.1 16.0  31:28.48 java
+Wed Jun 11 20:14:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 397.4 16.0  31:34.65 java
+Wed Jun 11 20:14:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 357.6 16.0  31:39.02 java
+Wed Jun 11 20:14:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 523.6 16.0  31:45.39 java
+Wed Jun 11 20:14:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 641.2 16.0  31:52.58 java
+Wed Jun 11 20:14:21 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 575.3 16.0  31:59.71 java
+Wed Jun 11 20:14:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 476.8 16.0  32:06.12 java
+Wed Jun 11 20:14:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 404.2 16.0  32:11.18 java
+Wed Jun 11 20:14:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 4.696g  14440 S 331.1 16.0  32:15.57 java
+Wed Jun 11 20:14:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 271.7 17.1  32:20.75 java
+Wed Jun 11 20:14:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 291.5 17.1  32:23.73 java
+Wed Jun 11 20:14:28 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 290.3 17.1  32:27.17 java
+Wed Jun 11 20:14:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 231.6 17.1  32:30.09 java
+Wed Jun 11 20:14:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 298.0 17.1  32:33.46 java
+Wed Jun 11 20:14:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 271.7 17.1  32:36.90 java
+Wed Jun 11 20:14:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 231.9 17.1  32:39.77 java
+Wed Jun 11 20:14:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 159.1 17.1  32:42.08 java
+Wed Jun 11 20:14:35 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 132.6 17.1  32:43.90 java
+Wed Jun 11 20:14:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S 139.3 17.1  32:45.40 java
+Wed Jun 11 20:14:37 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  99.4 17.1  32:46.72 java
+Wed Jun 11 20:14:38 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  73.0 17.1  32:47.66 java
+Wed Jun 11 20:14:39 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  46.4 17.1  32:48.26 java
+Wed Jun 11 20:14:41 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  19.9 17.1  32:48.73 java
+Wed Jun 11 20:14:42 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  19.9 17.1  32:48.98 java
+Wed Jun 11 20:14:43 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.10 java
+Wed Jun 11 20:14:44 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.11 java
+Wed Jun 11 20:14:45 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.11 java
+Wed Jun 11 20:14:46 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.11 java
+Wed Jun 11 20:14:48 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.14 java
+Wed Jun 11 20:14:49 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.14 java
+Wed Jun 11 20:14:50 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.15 java
+Wed Jun 11 20:14:51 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.15 java
+Wed Jun 11 20:14:52 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S  13.3 17.1  32:49.17 java
+Wed Jun 11 20:14:53 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.17 java
+Wed Jun 11 20:14:55 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.17 java
+Wed Jun 11 20:14:56 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.17 java
+Wed Jun 11 20:14:57 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.19 java
+Wed Jun 11 20:14:58 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.19 java
+Wed Jun 11 20:14:59 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.21 java
+Wed Jun 11 20:15:00 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.21 java
+Wed Jun 11 20:15:02 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.21 java
+Wed Jun 11 20:15:03 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.22 java
+Wed Jun 11 20:15:04 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.26 java
+Wed Jun 11 20:15:05 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.33 java
+Wed Jun 11 20:15:06 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.42 java
+Wed Jun 11 20:15:07 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.48 java
+Wed Jun 11 20:15:09 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.53 java
+Wed Jun 11 20:15:10 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.54 java
+Wed Jun 11 20:15:11 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.54 java
+Wed Jun 11 20:15:12 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.55 java
+Wed Jun 11 20:15:13 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.56 java
+Wed Jun 11 20:15:14 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.56 java
+Wed Jun 11 20:15:16 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.56 java
+Wed Jun 11 20:15:17 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.58 java
+Wed Jun 11 20:15:18 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.59 java
+Wed Jun 11 20:15:19 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.59 java
+Wed Jun 11 20:15:20 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.60 java
+Wed Jun 11 20:15:22 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.60 java
+Wed Jun 11 20:15:23 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.62 java
+Wed Jun 11 20:15:24 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.62 java
+Wed Jun 11 20:15:25 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.62 java
+Wed Jun 11 20:15:26 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.63 java
+Wed Jun 11 20:15:27 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.64 java
+Wed Jun 11 20:15:29 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.64 java
+Wed Jun 11 20:15:30 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.66 java
+Wed Jun 11 20:15:31 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.66 java
+Wed Jun 11 20:15:32 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   6.6 17.1  32:49.67 java
+Wed Jun 11 20:15:33 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.67 java
+Wed Jun 11 20:15:34 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.68 java
+Wed Jun 11 20:15:36 UTC 2014
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1815 ubuntu    20   0 31.366g 5.031g  14440 S   0.0 17.1  32:49.69 java

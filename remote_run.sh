@@ -1,5 +1,7 @@
 #!/bin/bash
 
+RUN_SCRIPT="run_2xlarge.sh"
+
 # git pull + compile
 for server in "$@"
 do
@@ -10,5 +12,5 @@ done
 # run clients
 for server in "$@"
 do
-    ssh "$server" "nohup ./whatsup/simulator/run.sh /home/ubuntu/whatsup/simulator/${server}.input 1>output.log 2>error.log &"
+    ssh "$server" "nohup ./whatsup/simulator/${RUN_SCRIPT} /home/ubuntu/whatsup/simulator/${server}.input 1>output.log 2>error.log &"
 done

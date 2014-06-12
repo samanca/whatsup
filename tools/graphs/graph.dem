@@ -1,8 +1,0 @@
-reset
-
-set terminal postscript eps enhanced color font 'Helvetica,10'
-set output 'introduction.eps'
-
-set title "Our Chart"
-set style data linespoints
-plot 'sample.dat'

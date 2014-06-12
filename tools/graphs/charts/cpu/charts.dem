@@ -1,0 +1,13 @@
+reset
+
+# set terminal postscript eps enhanced color font 'Helvetica,10'
+# set output 'introduction.eps'
+
+set terminal pngcairo size 1024,768 enhanced font 'Verdana,10'
+set output '2xlarge_cpu.png'
+
+set title "CPU Utilization"
+set style data lines
+set xlabel 'Time (sec)'         # x-axis label
+set ylabel 'Utilization'        # y-axis label
+plot '2xlarge/2xlarge_cpu.dat' u 1:2 t 'openfire-nolog-2', '2xlarge/2xlarge_cpu.dat' u 1:3 t 'openfire-nolog-4', '2xlarge/2xlarge_cpu.dat' u 1:4 t 'openfire-nolog-8'

@@ -6,18 +6,20 @@ do
     if [ $COUNTER -eq 1 ]
     then
         TIME=`date --date="$line" +"%s"`
-        if [ $ORIGIN -eq 0 ]
-        then
-            ORIGIN=$TIME
-        fi
+        #if [ $ORIGIN -eq 0 ]
+        #then
+        #    ORIGIN=$TIME
+        #fi
     fi
 
     if [ $COUNTER -eq 3 ]
     then
         CPU=`echo "$line" | awk '{ print $9 }'`
+        MEMORY=`echo "$line" | awk '{ print $10 }'`
 
-        let diff=TIME-ORIGIN
-        echo -e "$diff\t$CPU"
+        #let diff=TIME-ORIGIN
+        #echo -e "$diff\t$CPU"
+        echo -e "$TIME\t$CPU\t$MEMORY"
     fi
 
     let COUNTER=COUNTER+1

@@ -3,14 +3,24 @@
 switch($argv[2]) {
 	case "cpu":
 		$file = 'cpumem_util.log';
-		$script = 'cpu_running.sh';
+		$script = './cpu_running.sh';
 		$column = 2;
-	break;
+	    break;
 	case "memory":
 		$file = 'cpumem_util.log';
-		$script = 'cpu_running.sh';
+		$script = './cpu_running.sh';
 		$column = 3;
-	break;
+	    break;
+    case "tcp":
+        $file = 'tcp_q.log';
+        $script = 'php tcp_queue_running.php';
+        $column = 2;
+        break;
+    case "thread":
+        $file = 'thread_q.log';
+        $script = 'php tcp_queue_running.php';
+        $column = 2;
+        break;
 }
 
 //echo "Running $argv[0] ...\n";
@@ -21,8 +31,8 @@ $servers = scandir($parent_dir);
 
 $stats = array();
 
-function NextEarlierTime($time, $server, $stats) {
-	
+function NextEarliestTime($time, $server, $stats) {
+
 	for ($i = $time; $i <= $stats[$server]['MAX']; $i++)
 		if (isset($stats[$server]['DATA'][$i]))
 			return $i;
@@ -35,8 +45,8 @@ foreach ($servers as $server) {
 	if (in_array($server, array('.', '..'))) continue;
 	$file_path = $parent_dir . $server . '/' . $file;
 	if (!file_exists($file_path)) continue;
-	
-	$temp = shell_exec('./' . $script . ' ' . $file_path . ' | awk \'{ printf $1 "\t" $' . $column . ' "\n" }\'');
+
+	$temp = shell_exec($script . ' ' . $file_path . ' | awk \'{ printf $1 "\t" $' . $column . ' "\n" }\'');
 	$temp = explode("\n", $temp);
 	foreach ($temp as $line) {
 		$tokens = explode("\t", $line);
@@ -53,12 +63,12 @@ foreach ($servers as $server) {
 
 $min_time = $max_min_time;
 while (true) {
-	
+
 	$min = 9223372036854775807;
 	$max = 0;
 	$values = array();
 	foreach (array_keys($stats) as $server) {
-		$temp = NextEarlierTime($min_time, $server, $stats);
+		$temp = NextEarliestTime($min_time, $server, $stats);
 		if ($temp < $min) $min = $temp;
 		if ($temp > $max) $max = $temp;
 		if ($temp > 0) $values[$server] = $stats[$server]['DATA'][$temp];
@@ -76,5 +86,5 @@ while (true) {
 	}
 
 	echo "\t" . (floatval($sum) / sizeof($values)) . "\n";
-}	
+}
 ?>

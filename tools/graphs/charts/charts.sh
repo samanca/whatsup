@@ -13,5 +13,7 @@ cd ../memory && gnuplot charts.dem
 # ================ File Handlers ================
 
 # ================ Thread Count =================
+echo "Thread count charts ..."
+cd ../thread && gnuplot charts.dem
 
 # ============== Virtual Memory =================

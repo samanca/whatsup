@@ -1,0 +1,52 @@
+Jun 13, 2014 8:08:42 PM org.jivesoftware.smack.provider.UrlProviderFileInitializer initialize
+INFO: Loading providers for file [classpath:META-INF/core.providers]
+Jun 13, 2014 8:08:42 PM org.jivesoftware.smack.provider.UrlProviderFileInitializer initialize
+INFO: Loading providers for file [classpath:META-INF/extension.providers]
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+Jun 13, 2014 8:09:25 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:27 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:27 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:28 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:29 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:29 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:30 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:32 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 13, 2014 8:09:33 PM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue

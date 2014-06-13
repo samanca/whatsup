@@ -260,7 +260,7 @@ Host ec2-server-2x8
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
-Host ec2-server-mongo
-  Hostname        172.31.10.109
+Host ec2-server-single
+  Hostname        172.31.16.9
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem

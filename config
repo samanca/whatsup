@@ -221,42 +221,42 @@ Host ec2-server-x8
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-2x1
-  Hostname        172.31.0.31
+  Hostname        172.31.1.37
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x2
-  Hostname        172.31.0.32
+  Hostname        172.31.1.38
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x3
-  Hostname        172.31.0.33
+  Hostname        172.31.1.39
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x4
-  Hostname        172.31.0.34
+  Hostname        172.31.1.40
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x5
-  Hostname        172.31.0.35
+  Hostname        172.31.1.41
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x6
-  Hostname        172.31.0.36
+  Hostname        172.31.1.42
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x7
-  Hostname        172.31.0.37
+  Hostname        172.31.1.43
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x8
-  Hostname        172.31.0.38
+  Hostname        172.31.1.44
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 

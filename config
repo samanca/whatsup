@@ -221,7 +221,7 @@ Host ec2-server-x8
   IdentityFile    ~/.ssh/harsha_keypair.pem
 
 Host ec2-server-2x1
-  Hostname        172.31.5.82
+  Hostname        172.31.15.71
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 

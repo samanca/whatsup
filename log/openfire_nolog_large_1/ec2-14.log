@@ -1,0 +1,38 @@
+input file is set to /home/ubuntu/whatsup/simulator/ec2-14.input
+[2014-06-13 11:38:50:138]	1120 has sent 9% of his messages!
+[2014-06-13 11:38:51:253]	1097 has sent 9% of his messages!
+[2014-06-13 11:38:51:255]	1091 has sent 9% of his messages!
+[2014-06-13 11:38:51:269]	1077 has sent 9% of his messages!
+[2014-06-13 11:38:51:283]	1078 has sent 9% of his messages!
+[2014-06-13 11:38:51:299]	1117 has sent 9% of his messages!
+[2014-06-13 11:38:51:302]	1055 has sent 9% of his messages!
+[2014-06-13 11:38:51:306]	1086 has sent 9% of his messages!
+[2014-06-13 11:38:51:306]	1105 has sent 9% of his messages!
+[2014-06-13 11:38:51:306]	1046 has sent 9% of his messages!
+[2014-06-13 11:38:51:307]	1045 has sent 9% of his messages!
+[2014-06-13 11:38:51:307]	1059 has sent 9% of his messages!
+[2014-06-13 11:38:51:510]	1063 has sent 9% of his messages!
+[2014-06-13 11:38:51:510]	1083 has sent 9% of his messages!
+[2014-06-13 11:38:51:512]	1050 has sent 9% of his messages!
+[2014-06-13 11:38:51:512]	1087 has sent 9% of his messages!
+[2014-06-13 11:38:51:512]	1064 has sent 9% of his messages!
+[2014-06-13 11:38:51:512]	1098 has sent 9% of his messages!
+[2014-06-13 11:38:51:512]	1061 has sent 9% of his messages!
+[2014-06-13 11:38:51:513]	1072 has sent 9% of his messages!
+[2014-06-13 11:38:51:514]	1090 has sent 9% of his messages!
+[2014-06-13 11:38:51:514]	1118 has sent 9% of his messages!
+[2014-06-13 11:38:51:515]	1049 has sent 9% of his messages!
+[2014-06-13 11:38:51:517]	1057 has sent 9% of his messages!
+[2014-06-13 11:38:51:517]	1094 has sent 9% of his messages!
+[2014-06-13 11:38:51:526]	1073 has sent 9% of his messages!
+[2014-06-13 11:38:51:545]	1047 has sent 9% of his messages!
+[2014-06-13 11:38:51:545]	1048 has sent 9% of his messages!
+[2014-06-13 11:38:51:546]	1067 has sent 9% of his messages!
+[2014-06-13 11:38:51:558]	1110 has sent 9% of his messages!
+[2014-06-13 11:38:51:558]	1112 has sent 9% of his messages!
+[2014-06-13 11:38:51:560]	1076 has sent 9% of his messages!
+[2014-06-13 11:38:51:563]	1107 has sent 9% of his messages!
+[2014-06-13 11:40:22:3]	1068 has sent 9% of his messages!
+Total time: 509333ms
+[2014-06-13 11:46:22:898]	Terminated successfully
+[2014-06-13 11:46:22:899]	Failures: 368591 - Total: 400000

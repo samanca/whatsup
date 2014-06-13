@@ -28,14 +28,14 @@
         <join>
             <multicast enabled="false"/>
             <tcp-ip enabled="true">
-	    	<member>172.31.0.31</member>
-	    	<member>172.31.0.32</member>
-	    	<member>172.31.0.33</member>
-	    	<member>172.31.0.34</member>
-	    	<member>172.31.0.35</member>
-	    	<member>172.31.0.36</member>
-	    	<member>172.31.0.37</member>
-	    	<member>172.31.0.38</member>
+	    	<member>172.31.1.37</member>
+	    	<member>172.31.1.38</member>
+	    	<member>172.31.1.39</member>
+	    	<member>172.31.1.40</member>
+	    	<member>172.31.1.41</member>
+	    	<member>172.31.1.42</member>
+	    	<member>172.31.1.43</member>
+	    	<member>172.31.1.44</member>
 	    </tcp-ip>
             <aws enabled="false"/>
         </join>
@@ -96,7 +96,7 @@
         <backing-map-ref>default</backing-map-ref>
     </queue>
     <!--
-    	Default Hazelcast cache configuration for Openfire. 
+    	Default Hazelcast cache configuration for Openfire.
     -->
     <map name="default">
         <!--
@@ -171,9 +171,9 @@
 		<!--
 			Near cache provides a local view of the clustered map, which is
 			ideal for high-read caches. Each cluster member retains a local
-			copy of entries retrieved from the distributed map. This reduces 
-			network load for caches that require frequent reads. However, if 
-			the	entries are updated frequently, there can be a performance 
+			copy of entries retrieved from the distributed map. This reduces
+			network load for caches that require frequent reads. However, if
+			the	entries are updated frequently, there can be a performance
 			penalty due to invalidations on the other cluster members.
 		-->
         <near-cache>
@@ -184,9 +184,9 @@
             <invalidate-on-change>true</invalidate-on-change>
         </near-cache>
     </map>
-    
+
     <!--  Partitioned Openfire caches without size/time limits (no eviction). -->
-    
+
     <map name="opt-$cacheStats">
         <backup-count>1</backup-count>
         <read-backup-data>true</read-backup-data>
@@ -251,9 +251,9 @@
         <backup-count>1</backup-count>
         <read-backup-data>true</read-backup-data>
     </map>
-    
+
     <!-- Caches with size and/or time limits (TTL) -->
-    
+
     <map name="POP3 Authentication">
         <backup-count>1</backup-count>
         <max-size policy="per_partition">10000</max-size>
@@ -355,9 +355,9 @@
         <time-to-live-seconds>1800</time-to-live-seconds>
         <eviction-policy>LRU</eviction-policy>
     </map>
-    
+
     <!-- These caches have size and/or time limits (idle) -->
-    
+
     <map name="Group Metadata Cache">
         <backup-count>1</backup-count>
         <read-backup-data>true</read-backup-data>
@@ -386,9 +386,9 @@
         <max-idle-seconds>3600</max-idle-seconds>
         <eviction-policy>LRU</eviction-policy>
     </map>
-    
+
     <!-- These caches use a near-cache to improve read performance -->
-    
+
     <map name="VCard">
         <backup-count>1</backup-count>
         <read-backup-data>true</read-backup-data>

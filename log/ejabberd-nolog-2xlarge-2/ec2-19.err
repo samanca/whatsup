@@ -1,0 +1,451 @@
+Jun 14, 2014 2:58:20 AM org.jivesoftware.smack.provider.UrlProviderFileInitializer initialize
+INFO: Loading providers for file [classpath:META-INF/core.providers]
+Jun 14, 2014 2:58:20 AM org.jivesoftware.smack.provider.UrlProviderFileInitializer initialize
+INFO: Loading providers for file [classpath:META-INF/extension.providers]
+Jun 14, 2014 2:58:35 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+error while connecting to the server: Connection failed. No response from server.: 
+Jun 14, 2014 2:58:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:58:43 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:58:44 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:58:44 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:58:47 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Jun 14, 2014 2:58:51 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Jun 14, 2014 2:58:56 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Jun 14, 2014 2:59:33 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:35 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Jun 14, 2014 2:59:36 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:36 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Jun 14, 2014 2:59:37 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:38 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:38 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:39 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:39 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:40 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:41 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:41 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:42 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:42 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:42 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Jun 14, 2014 2:59:42 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:44 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:44 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Jun 14, 2014 2:59:44 AM org.jivesoftware.smack.PacketWriter writePackets
+WARNING: Error flushing queue during shutdown, ignore and continue
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 
+Connection failed. No response from server.: 

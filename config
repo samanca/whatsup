@@ -226,17 +226,17 @@ Host ec2-server-2x1
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x2
-  Hostname        172.31.1.38
+  Hostname        172.31.11.198
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x3
-  Hostname        172.31.1.39
+  Hostname        172.31.11.199
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 
 Host ec2-server-2x4
-  Hostname        172.31.1.40
+  Hostname        172.31.11.200
   User            ubuntu
   IdentityFile    ~/.ssh/keyvaluepair1.pem
 

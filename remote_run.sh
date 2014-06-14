@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RUN_SCRIPT="run_2xlarge.sh"
+RUN_SCRIPT="run.sh"
 
 # git pull + compile
 for server in "$@"

@@ -6571,20 +6571,6 @@ Tue Jun  3 21:19:21 PDT 2014
 Tue Jun  3 21:19:22 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5177464 2.534g   2168 S  99.8 32.8  49:30.69 beam.smp
-Tue Jun  3 21:19:23 PDT 2014
-
-Tue Jun  3 21:19:24 PDT 2014
-
-Tue Jun  3 21:19:25 PDT 2014
-
-Tue Jun  3 21:19:26 PDT 2014
-
-Tue Jun  3 21:19:27 PDT 2014
-
-Tue Jun  3 21:19:28 PDT 2014
-
-Tue Jun  3 21:19:29 PDT 2014
-
 Tue Jun  3 21:19:30 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.537g   2332 S  99.8 32.8  49:38.94 beam.smp
@@ -6639,20 +6625,6 @@ Tue Jun  3 21:19:49 PDT 2014
 Tue Jun  3 21:19:50 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.539g   2332 S  99.8 32.9  49:58.68 beam.smp
-Tue Jun  3 21:19:51 PDT 2014
-
-Tue Jun  3 21:19:52 PDT 2014
-
-Tue Jun  3 21:19:53 PDT 2014
-
-Tue Jun  3 21:19:54 PDT 2014
-
-Tue Jun  3 21:19:55 PDT 2014
-
-Tue Jun  3 21:19:56 PDT 2014
-
-Tue Jun  3 21:19:57 PDT 2014
-
 Tue Jun  3 21:19:58 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.539g   2332 S  99.8 32.9  50:06.91 beam.smp
@@ -6884,20 +6856,6 @@ Tue Jun  3 21:21:25 PDT 2014
 Tue Jun  3 21:21:26 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.547g   2332 S  99.8 33.0  51:35.16 beam.smp
-Tue Jun  3 21:21:28 PDT 2014
-
-Tue Jun  3 21:21:29 PDT 2014
-
-Tue Jun  3 21:21:30 PDT 2014
-
-Tue Jun  3 21:21:31 PDT 2014
-
-Tue Jun  3 21:21:32 PDT 2014
-
-Tue Jun  3 21:21:33 PDT 2014
-
-Tue Jun  3 21:21:34 PDT 2014
-
 Tue Jun  3 21:21:35 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.547g   2332 S  99.8 33.0  51:43.40 beam.smp
@@ -6979,8 +6937,6 @@ Tue Jun  3 21:22:04 PDT 2014
 Tue Jun  3 21:22:05 PDT 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  4439 root      20   0 5176440 2.547g   2332 S  99.8 33.0  52:13.58 beam.smp
-Tue Jun  3 21:22:13 PDT 2014
-  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
 Fri Jun 13 20:07:40 UTC 2014
   PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
  1552 root      20   0  857356  34708   3564 S   0.0  0.5   0:03.01 beam.smp
